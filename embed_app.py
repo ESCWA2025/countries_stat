@@ -275,6 +275,33 @@ if sel_country != "All" and sel_city != "All":
     df_base = df_base.assign(__dist_km__=dist)
     df_near = df_base[df_base["__dist_km__"] <= radius_km].copy()
 
+        # Compute distances for all rows in the selected country and filter within radius
+    dist = _haversine_km_vec(df_base["Latitude"].to_numpy(), df_base["Longitude"].to_numpy(), lat0, lon0)
+    df_base = df_base.assign(__dist_km__=dist)
+    df_near = df_base[df_base["__dist_km__"] <= radius_km].copy()
+
+    # NEW: big counters above the map
+    city_only_count = int(city_rows["count"].sum())
+    radius_total_count = int(df_near["count"].sum())
+
+    st.markdown(
+        f"""
+        <div style="display:flex; gap:16px; margin: 8px 0 6px 0;">
+          <div style="flex:1; background:#f5f5f7; border-radius:16px; padding:16px; text-align:center;">
+            <div style="font-size:18px; font-weight:600; color:#555;">“{disp_name}” (city only)</div>
+            <div style="font-size:44px; font-weight:800; line-height:1; margin-top:6px;">{city_only_count:,}</div>
+          </div>
+          <div style="flex:1; background:#f5f5f7; border-radius:16px; padding:16px; text-align:center;">
+            <div style="font-size:18px; font-weight:600; color:#555;">Within {int(radius_km)} km</div>
+            <div style="font-size:44px; font-weight:800; line-height:1; margin-top:6px;">{radius_total_count:,}</div>
+          </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.caption(f"Showing posts within {int(radius_km)} km of “{disp_name}”. Center at ({lat0:.4f}, {lon0:.4f}).")
+
     st.caption(f"Showing posts within {int(radius_km)} km of “{disp_name}”. Center at ({lat0:.4f}, {lon0:.4f}).")
 
     # Aggregate for map
@@ -387,8 +414,8 @@ else:
         key="v2_map_all",
     )
 
-    st.dataframe(
-        map_df.rename(columns={"lat": "Latitude", "lon": "Longitude"}),
-        use_container_width=True,
-        hide_index=True
-    )
+    # st.dataframe(
+    #     map_df.rename(columns={"lat": "Latitude", "lon": "Longitude"}),
+    #     use_container_width=True,
+    #     hide_index=True
+    # )
