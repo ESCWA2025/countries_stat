@@ -49,16 +49,14 @@
     { "name": "Amman", "radius_km": 15 },
     { "name": "Irbid", "radius_km": 12 },
     { "name": "Aqaba", "radius_km": 10 },
-    { "name": "Zarqa", "radius_km": 12 },
-    { "name": "Baghdad", "radius_km": 25 }
+    { "name": "Zarqa", "radius_km": 12 }
   ],
   "Iraq": [
+    { "name": "Baghdad", "radius_km": 25 },
     { "name": "Basrah", "radius_km": 20 },
     { "name": "Erbil", "radius_km": 20 },
     { "name": "Anas", "radius_km": 10 },
-    { "name": "Al Khurj", "radius_km": 15 },
-    { "name": "Nineveh", "radius_km": 60 },
-    { "name": "Baghdad", "radius_km": 25 }
+    { "name": "Nineveh", "radius_km": 60 }
   ],
   "Djibouti": [
     { "name": "Dale", "radius_km": 10 },
@@ -171,19 +169,17 @@
   "Syria": [
     { "name": "As Susah", "radius_km": 10 },
     { "name": "Damascus", "radius_km": 15 },
-    { "name": "Aleppo Governorate", "radius_km": 50 },
-    { "name": "Al Muhaddad", "radius_km": 10 },
-    { "name": "Hudhud", "radius_km": 8 },
-    { "name": "Tall Ḩuwayfir", "radius_km": 10 },
+    { "name": "Aleppo", "radius_km": 50 },
     { "name": "Daraa", "radius_km": 15 },
-    { "name": "Al Haraki", "radius_km": 10 },
+    { "name": "Homs", "radius_km": 20 },
+    { "name": "Latakia", "radius_km": 15 },
     { "name": "Idlib", "radius_km": 15 },
     { "name": "Al Hasakah", "radius_km": 20 },
     { "name": "Hamah", "radius_km": 15 }
   ],
   "Yemen": [
     { "name": "Sanaa", "radius_km": 15 },
-    { "name": "Governorate Number One", "radius_km": 50 },
+    { "name": "Adan", "radius_km": 50 },
     { "name": "Al Kharimah", "radius_km": 10 },
     { "name": "Al Muwayh", "radius_km": 10 },
     { "name": "Darb al Fukrayd", "radius_km": 10 },
