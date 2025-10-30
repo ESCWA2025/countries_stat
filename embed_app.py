@@ -318,8 +318,8 @@ with c2:
     sel_city = st.selectbox("City", options=city_choices, index=0, key="v2_city")
 
 with c3:
-    size_mode = st.radio("Bubble size scale", ["sqrt", "linear", "log"], index=0, horizontal=True, key="scale_mode")
-
+    # size_mode = st.radio("Bubble size scale", ["sqrt", "linear", "log"], index=0, horizontal=True, key="scale_mode")
+    size_mode = "log"
 # Determine min/max bubble radius based on selection
 if sel_country == "All":
     # Global "All" selection
