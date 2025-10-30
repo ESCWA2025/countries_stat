@@ -606,7 +606,7 @@ if __name__ == "__main__":
     t_read = time.perf_counter()
     print("\n[1/4] Reading parquet file...")
     df_counts = (
-        pl.scan_parquet("data/job_entries_escwa.parquet")
+        pl.scan_parquet("data/ESM_ALL(Countries).parquet")
           .select("SRC_Country")
           .group_by("SRC_Country")
           .len()

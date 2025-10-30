@@ -84,7 +84,6 @@
       { "name": "Dale", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
       { "name": "Foret de Day", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
       { "name": "Ali Sabieh Region", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
-      { "name": "Data", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
       { "name": "Tadjourah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 }
     ]
   },

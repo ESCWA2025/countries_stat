@@ -1,0 +1,7452 @@
+{
+  "Algeria": [
+   {
+"name": "Algier",
+"latitude": 36.74053,
+"longitude": 3.00957,
+"canonical": "Algier"
+},
+{
+"name": "Algiers",
+"latitude": 36.74053,
+"longitude": 3.00957,
+"canonical": "Algier"
+},
+{
+"name": "Alger",
+"latitude": 36.74053,
+"longitude": 3.00957,
+"canonical": "Algier"
+},
+{
+"name": "الجزائر العاصمة",
+"latitude": 36.74053,
+"longitude": 3.00957,
+"canonical": "Algier"
+},
+
+{
+  "name": "Brida",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+{
+  "name": "Brīda",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+{
+  "name": "Breida",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+{
+  "name": "B'rida",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+{
+  "name": "Brida Laghouat",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+{
+  "name": "بريدة",
+  "latitude": 33.9802,
+  "longitude": 1.65275,
+  "canonical": "Brida"
+},
+
+{
+  "name": "Oran",
+  "latitude": 35.66667,
+  "longitude": -0.5,
+  "canonical": "Oran"
+},
+{
+  "name": "Wahran",
+  "latitude": 35.66667,
+  "longitude": -0.5,
+  "canonical": "Oran"
+},
+{
+  "name": "Ouahran",
+  "latitude": 35.66667,
+  "longitude": -0.5,
+  "canonical": "Oran"
+},
+{
+  "name": "وهران",
+  "latitude": 35.66667,
+  "longitude": -0.5,
+  "canonical": "Oran"
+},
+{
+  "name": "Orán",
+  "latitude": 35.66667,
+  "longitude": -0.5,
+  "canonical": "Oran"
+},
+
+{
+  "name": "Et Toual",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "Ait Toual",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "Aït Toual",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "Ath Toual",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "Ith Toual",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "ايت توال",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+{
+  "name": "آيت توال",
+  "latitude": 34.72548,
+  "longitude": 0.84252,
+  "canonical": "Et Toual"
+},
+
+{
+  "name": "Constantine",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+{
+  "name": "Qacentina",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+{
+  "name": "Qusantina",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+{
+  "name": "Kasantina",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+{
+  "name": "Cirta",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+{
+  "name": "قسنطينة",
+  "latitude": 36.365,
+  "longitude": 6.61472,
+  "canonical": "Constantine"
+},
+
+{
+  "name": "Abdelmoumen",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+{
+  "name": "Abdelmoumene",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+{
+  "name": "Abd el Moumen",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+{
+  "name": "ʿAbd al-Muʾmin",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+{
+  "name": "Abd al-Mu'min",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+{
+  "name": "عبد المؤمن",
+  "latitude": 35.28963,
+  "longitude": 1.43957,
+  "canonical": "Abdelmoumen"
+},
+
+{
+  "name": "Hassi Messaoud",
+  "latitude": 31.68041,
+  "longitude": 6.07286,
+  "canonical": "Hassi Messaoud"
+},
+{
+  "name": "Hassi-Messaoud",
+  "latitude": 31.68041,
+  "longitude": 6.07286,
+  "canonical": "Hassi Messaoud"
+},
+{
+  "name": "El Hassi Messaoud",
+  "latitude": 31.68041,
+  "longitude": 6.07286,
+  "canonical": "Hassi Messaoud"
+},
+{
+  "name": "Al Hassi Messaoud",
+  "latitude": 31.68041,
+  "longitude": 6.07286,
+  "canonical": "Hassi Messaoud"
+},
+{
+  "name": "حاسي مسعود",
+  "latitude": 31.68041,
+  "longitude": 6.07286,
+  "canonical": "Hassi Messaoud"
+},
+
+{
+  "name": "Cheraga",
+  "latitude": 26.59632,
+  "longitude": -1.62932,
+  "canonical": "Cheraga"
+},
+{
+  "name": "Chéraga",
+  "latitude": 26.59632,
+  "longitude": -1.62932,
+  "canonical": "Cheraga"
+},
+{
+  "name": "El Cheraga",
+  "latitude": 26.59632,
+  "longitude": -1.62932,
+  "canonical": "Cheraga"
+},
+{
+  "name": "Ech Cheraga",
+  "latitude": 26.59632,
+  "longitude": -1.62932,
+  "canonical": "Cheraga"
+},
+{
+  "name": "الشراقة",
+  "latitude": 26.59632,
+  "longitude": -1.62932,
+  "canonical": "Cheraga"
+}
+  ],
+  "Bahrain": [
+    {
+"name": "Manama",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+{
+"name": "Manamah",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+{
+"name": "Al Manamah",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+{
+"name": "Al-Manāmah",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+{
+"name": "Manama City",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+{
+"name": "المنامة",
+"latitude": 26.22787,
+"longitude": 50.58565,
+"canonical": "Manama"
+},
+
+{
+  "name": "Rifa",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "Riffa",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "Ar Rifa",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "Ar Rifa'",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "Al-Riffa",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "Ar Rifāʿ",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+{
+  "name": "الرفاع",
+  "latitude": 26.13,
+  "longitude": 50.555,
+  "canonical": "Rifa"
+},
+
+{
+  "name": "Jadd Hafs",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+{
+  "name": "Jidhafs",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+{
+  "name": "Jid Hafs",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+{
+  "name": "Jadd Ḥafs",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+{
+  "name": "Jidd Ḥafṣ",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+{
+  "name": "جدحفص",
+  "latitude": 26.21861,
+  "longitude": 50.54778,
+  "canonical": "Jadd Hafs"
+},
+
+{
+  "name": "Muharraq",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+{
+  "name": "Al Muharraq",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+{
+  "name": "Al-Muharraq",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+{
+  "name": "Al-Muḥarraq",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+{
+  "name": "Muharraq City",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+{
+  "name": "المحرق",
+  "latitude": 26.25722,
+  "longitude": 50.61194,
+  "canonical": "Muharraq"
+},
+
+{
+  "name": "Madinat Hamad",
+  "latitude": 26.11528,
+  "longitude": 50.50694,
+  "canonical": "Madinat Hamad"
+},
+{
+  "name": "Hamad Town",
+  "latitude": 26.11528,
+  "longitude": 50.50694,
+  "canonical": "Madinat Hamad"
+},
+{
+  "name": "Madīnat Ḥamad",
+  "latitude": 26.11528,
+  "longitude": 50.50694,
+  "canonical": "Madinat Hamad"
+},
+{
+  "name": "مدينة حمد",
+  "latitude": 26.11528,
+  "longitude": 50.50694,
+  "canonical": "Madinat Hamad"
+},
+
+{
+  "name": "Isa",
+  "latitude": 26.16667,
+  "longitude": 50.55,
+  "canonical": "Isa"
+},
+{
+  "name": "Isa Town",
+  "latitude": 26.16667,
+  "longitude": 50.55,
+  "canonical": "Isa"
+},
+{
+  "name": "Madinat Isa",
+  "latitude": 26.16667,
+  "longitude": 50.55,
+  "canonical": "Isa"
+},
+{
+  "name": "Madīnat ʿĪsā",
+  "latitude": 26.16667,
+  "longitude": 50.55,
+  "canonical": "Isa"
+},
+{
+  "name": "مدينة عيسى",
+  "latitude": 26.16667,
+  "longitude": 50.55,
+  "canonical": "Isa"
+},
+
+{
+  "name": "Al Juffair",
+  "latitude": 26.21111,
+  "longitude": 50.60111,
+  "canonical": "Al Juffair"
+},
+{
+  "name": "Juffair",
+  "latitude": 26.21111,
+  "longitude": 50.60111,
+  "canonical": "Al Juffair"
+},
+{
+  "name": "Al-Juffair",
+  "latitude": 26.21111,
+  "longitude": 50.60111,
+  "canonical": "Al Juffair"
+},
+{
+  "name": "Al Jufair",
+  "latitude": 26.21111,
+  "longitude": 50.60111,
+  "canonical": "Al Juffair"
+},
+{
+  "name": "الجفير",
+  "latitude": 26.21111,
+  "longitude": 50.60111,
+  "canonical": "Al Juffair"
+},
+
+{
+  "name": "Al Malikiyah",
+  "latitude": 26.09806,
+  "longitude": 50.48667,
+  "canonical": "Al Malikiyah"
+},
+{
+  "name": "Al-Malikiyah",
+  "latitude": 26.09806,
+  "longitude": 50.48667,
+  "canonical": "Al Malikiyah"
+},
+{
+  "name": "Malkiyah",
+  "latitude": 26.09806,
+  "longitude": 50.48667,
+  "canonical": "Al Malikiyah"
+},
+{
+  "name": "Malkiya",
+  "latitude": 26.09806,
+  "longitude": 50.48667,
+  "canonical": "Al Malikiyah"
+},
+{
+  "name": "المالكية",
+  "latitude": 26.09806,
+  "longitude": 50.48667,
+  "canonical": "Al Malikiyah"
+},
+
+{
+  "name": "Dar Kulayb",
+  "latitude": 26.06861,
+  "longitude": 50.50389,
+  "canonical": "Dar Kulayb"
+},
+{
+  "name": "Dar Kulaib",
+  "latitude": 26.06861,
+  "longitude": 50.50389,
+  "canonical": "Dar Kulayb"
+},
+{
+  "name": "Dār Kulayb",
+  "latitude": 26.06861,
+  "longitude": 50.50389,
+  "canonical": "Dar Kulayb"
+},
+{
+  "name": "Dar Kulayeb",
+  "latitude": 26.06861,
+  "longitude": 50.50389,
+  "canonical": "Dar Kulayb"
+},
+{
+  "name": "دار كليب",
+  "latitude": 26.06861,
+  "longitude": 50.50389,
+  "canonical": "Dar Kulayb"
+},
+
+{
+  "name": "Tubli",
+  "latitude": 26.18694,
+  "longitude": 50.54944,
+  "canonical": "Tubli"
+},
+{
+  "name": "Toubli",
+  "latitude": 26.18694,
+  "longitude": 50.54944,
+  "canonical": "Tubli"
+},
+{
+  "name": "Tūblī",
+  "latitude": 26.18694,
+  "longitude": 50.54944,
+  "canonical": "Tubli"
+},
+{
+  "name": "توبلي",
+  "latitude": 26.18694,
+  "longitude": 50.54944,
+  "canonical": "Tubli"
+},
+
+{
+  "name": "Al Hadd",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+{
+  "name": "Al Hidd",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+{
+  "name": "Al-Ḥadd",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+{
+  "name": "Al-Ḥidd",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+{
+  "name": "Hidd",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+{
+  "name": "الحد",
+  "latitude": 26.24556,
+  "longitude": 50.65417,
+  "canonical": "Al Hadd"
+},
+
+{
+  "name": "Southern Governorate",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+{
+  "name": "South Governorate",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+{
+  "name": "Al Janubiyah Governorate",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+{
+  "name": "Muḥāfaẓat al-Janūbīyah",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+{
+  "name": "المحافظة الجنوبية",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+{
+  "name": "الجنوبية",
+  "latitude": 26.22787,
+  "longitude": 50.58565,
+  "canonical": "Southern Governorate"
+},
+
+{
+  "name": "Sitrah",
+  "latitude": 26.15,
+  "longitude": 50.61667,
+  "canonical": "Sitrah"
+},
+{
+  "name": "Sitra",
+  "latitude": 26.15,
+  "longitude": 50.61667,
+  "canonical": "Sitrah"
+},
+{
+  "name": "Sitra Island",
+  "latitude": 26.15,
+  "longitude": 50.61667,
+  "canonical": "Sitrah"
+},
+{
+  "name": "Sittra",
+  "latitude": 26.15,
+  "longitude": 50.61667,
+  "canonical": "Sitrah"
+},
+{
+  "name": "سترة",
+  "latitude": 26.15,
+  "longitude": 50.61667,
+  "canonical": "Sitrah"
+}
+  ],
+  "Djibouti": [
+   {
+"name": "Dale",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+{
+"name": "Dalé",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+{
+"name": "Dâlé",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+{
+"name": "Daleh",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+{
+"name": "Daale",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+{
+"name": "دالي",
+"latitude": 11.77593,
+"longitude": 41.92977,
+"canonical": "Dale"
+},
+
+{
+  "name": "Foret de Day",
+  "latitude": 11.76667,
+  "longitude": 42.65806,
+  "canonical": "Foret de Day"
+},
+{
+  "name": "Forêt de Day",
+  "latitude": 11.76667,
+  "longitude": 42.65806,
+  "canonical": "Foret de Day"
+},
+{
+  "name": "Forêt du Day",
+  "latitude": 11.76667,
+  "longitude": 42.65806,
+  "canonical": "Foret de Day"
+},
+{
+  "name": "Day Forest",
+  "latitude": 11.76667,
+  "longitude": 42.65806,
+  "canonical": "Foret de Day"
+},
+{
+  "name": "غابة داي",
+  "latitude": 11.76667,
+  "longitude": 42.65806,
+  "canonical": "Foret de Day"
+},
+
+{
+  "name": "Ali Sabieh Region",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "Ali Sabieh",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "Ali-Sabieh",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "Ali Sabih",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "Région d'Ali Sabieh",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "إقليم علي صبيح",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "منطقة علي صبيح",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "علي صبيح",
+  "latitude": 11.2,
+  "longitude": 42.94,
+  "canonical": "Ali Sabieh Region"
+},
+{
+  "name": "Tadjourah",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+},
+{
+  "name": "Tadjoura",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+},
+{
+  "name": "Tadjura",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+},
+{
+  "name": "Tadjourâh",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+},
+{
+  "name": "تدجوره",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+},
+{
+  "name": "تدجورا",
+  "latitude": 12,
+  "longitude": 42.5,
+  "canonical": "Tadjourah"
+}
+  ],
+  "Egypt": [
+    {
+"name": "Cairo",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "Al Qahirah",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "Al-Qahirah",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "Al Qāhirah",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "El Qahira",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "Caire",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+{
+"name": "القاهرة",
+"latitude": 30.06263,
+"longitude": 31.24967,
+"canonical": "Cairo"
+},
+
+{
+  "name": "Giza",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+{
+  "name": "Al Jizah",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+{
+  "name": "Al-Jizah",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+{
+  "name": "El Giza",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+{
+  "name": "Gizeh",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+{
+  "name": "الجيزة",
+  "latitude": 30.00944,
+  "longitude": 31.20861,
+  "canonical": "Giza"
+},
+
+{
+  "name": "Alexandria",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+{
+  "name": "Al Iskandariyah",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+{
+  "name": "Al-Iskandariyah",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+{
+  "name": "El Iskandariya",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+{
+  "name": "Alexandrie",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+{
+  "name": "الإسكندرية",
+  "latitude": 31.20176,
+  "longitude": 29.91582,
+  "canonical": "Alexandria"
+},
+
+{
+  "name": "Al Qahirah al Jadidah",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+{
+  "name": "Al-Qahirah al-Jadidah",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+{
+  "name": "New Cairo",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+{
+  "name": "New Cairo City",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+{
+  "name": "Madīnat al-Qāhirah al-Jadīdah",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+{
+  "name": "القاهرة الجديدة",
+  "latitude": 30.04214,
+  "longitude": 31.44446,
+  "canonical": "Al Qahirah al Jadidah"
+},
+
+{
+  "name": "Maadi",
+  "latitude": 29.95958,
+  "longitude": 31.25924,
+  "canonical": "Maadi"
+},
+{
+  "name": "Al Maadi",
+  "latitude": 29.95958,
+  "longitude": 31.25924,
+  "canonical": "Maadi"
+},
+{
+  "name": "El Maadi",
+  "latitude": 29.95958,
+  "longitude": 31.25924,
+  "canonical": "Maadi"
+},
+{
+  "name": "Maʿadi",
+  "latitude": 29.95958,
+  "longitude": 31.25924,
+  "canonical": "Maadi"
+},
+{
+  "name": "المعادي",
+  "latitude": 29.95958,
+  "longitude": 31.25924,
+  "canonical": "Maadi"
+},
+
+{
+  "name": "Ash Sharqiyah",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+{
+  "name": "Ash-Sharqiyah",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+{
+  "name": "Al Sharqiyah",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+{
+  "name": "Sharqia",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+{
+  "name": "Sharqiya Governorate",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+{
+  "name": "محافظة الشرقية",
+  "latitude": 30.58768,
+  "longitude": 31.502,
+  "canonical": "Ash Sharqiyah"
+},
+
+{
+  "name": "October",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+{
+  "name": "6th of October",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+{
+  "name": "Sixth of October",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+{
+  "name": "6 October City",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+{
+  "name": "Madīnat as-Sādis min Uktūbar",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+{
+  "name": "مدينة السادس من أكتوبر",
+  "latitude": 29.81187,
+  "longitude": 30.82325,
+  "canonical": "October"
+},
+
+{
+  "name": "Heliopolis",
+  "latitude": 30.10882,
+  "longitude": 31.37924,
+  "canonical": "Heliopolis"
+},
+{
+  "name": "Masr al-Jadidah",
+  "latitude": 30.10882,
+  "longitude": 31.37924,
+  "canonical": "Heliopolis"
+},
+{
+  "name": "Masr El Gedida",
+  "latitude": 30.10882,
+  "longitude": 31.37924,
+  "canonical": "Heliopolis"
+},
+{
+  "name": "هليوبوليس",
+  "latitude": 30.10882,
+  "longitude": 31.37924,
+  "canonical": "Heliopolis"
+},
+{
+  "name": "مصر الجديدة",
+  "latitude": 30.10882,
+  "longitude": 31.37924,
+  "canonical": "Heliopolis"
+},
+
+{
+  "name": "Madinat an Nasr",
+  "latitude": 30.06667,
+  "longitude": 31.3,
+  "canonical": "Madinat an Nasr"
+},
+{
+  "name": "Madīnat an-Naṣr",
+  "latitude": 30.06667,
+  "longitude": 31.3,
+  "canonical": "Madinat an Nasr"
+},
+{
+  "name": "Nasr City",
+  "latitude": 30.06667,
+  "longitude": 31.3,
+  "canonical": "Madinat an Nasr"
+},
+{
+  "name": "Madinat Nasr",
+  "latitude": 30.06667,
+  "longitude": 31.3,
+  "canonical": "Madinat an Nasr"
+},
+{
+  "name": "مدينة نصر",
+  "latitude": 30.06667,
+  "longitude": 31.3,
+  "canonical": "Madinat an Nasr"
+},
+
+{
+  "name": "Al Ashir min Ramadan",
+  "latitude": 30.29636,
+  "longitude": 31.74633,
+  "canonical": "Al Ashir min Ramadan"
+},
+{
+  "name": "Al-ʿĀshir min Ramaḍān",
+  "latitude": 30.29636,
+  "longitude": 31.74633,
+  "canonical": "Al Ashir min Ramadan"
+},
+{
+  "name": "10th of Ramadan",
+  "latitude": 30.29636,
+  "longitude": 31.74633,
+  "canonical": "Al Ashir min Ramadan"
+},
+{
+  "name": "Tenth of Ramadan City",
+  "latitude": 30.29636,
+  "longitude": 31.74633,
+  "canonical": "Al Ashir min Ramadan"
+},
+{
+  "name": "العاشر من رمضان",
+  "latitude": 30.29636,
+  "longitude": 31.74633,
+  "canonical": "Al Ashir min Ramadan"
+},
+
+{
+  "name": "Al Qalyubiyah",
+  "latitude": 30.45977,
+  "longitude": 31.1842,
+  "canonical": "Al Qalyubiyah"
+},
+{
+  "name": "Qalyubia",
+  "latitude": 30.45977,
+  "longitude": 31.1842,
+  "canonical": "Al Qalyubiyah"
+},
+{
+  "name": "Al Qalyubiya",
+  "latitude": 30.45977,
+  "longitude": 31.1842,
+  "canonical": "Al Qalyubiyah"
+},
+{
+  "name": "Qalyubiyah",
+  "latitude": 30.45977,
+  "longitude": 31.1842,
+  "canonical": "Al Qalyubiyah"
+},
+{
+  "name": "محافظة القليوبية",
+  "latitude": 30.45977,
+  "longitude": 31.1842,
+  "canonical": "Al Qalyubiyah"
+},
+
+{
+  "name": "Al Gharbiyah",
+  "latitude": 30.78847,
+  "longitude": 31.00192,
+  "canonical": "Al Gharbiyah"
+},
+{
+  "name": "Gharbia",
+  "latitude": 30.78847,
+  "longitude": 31.00192,
+  "canonical": "Al Gharbiyah"
+},
+{
+  "name": "Al Gharbiya",
+  "latitude": 30.78847,
+  "longitude": 31.00192,
+  "canonical": "Al Gharbiyah"
+},
+{
+  "name": "Gharbiyya",
+  "latitude": 30.78847,
+  "longitude": 31.00192,
+  "canonical": "Al Gharbiyah"
+},
+{
+  "name": "محافظة الغربية",
+  "latitude": 30.78847,
+  "longitude": 31.00192,
+  "canonical": "Al Gharbiyah"
+},
+
+{
+  "name": "Al Mansurah",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+{
+  "name": "Al Mansoura",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+{
+  "name": "El Mansoura",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+{
+  "name": "Mansoura",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+{
+  "name": "Al-Manṣūrah",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+{
+  "name": "المنصورة",
+  "latitude": 31.03637,
+  "longitude": 31.38069,
+  "canonical": "Al Mansurah"
+},
+
+{
+  "name": "Shobra",
+  "latitude": 30.07182,
+  "longitude": 31.24495,
+  "canonical": "Shobra"
+},
+{
+  "name": "Shubra",
+  "latitude": 30.07182,
+  "longitude": 31.24495,
+  "canonical": "Shobra"
+},
+{
+  "name": "Shoubra",
+  "latitude": 30.07182,
+  "longitude": 31.24495,
+  "canonical": "Shobra"
+},
+{
+  "name": "Shobra, Cairo",
+  "latitude": 30.07182,
+  "longitude": 31.24495,
+  "canonical": "Shobra"
+},
+{
+  "name": "شبرا",
+  "latitude": 30.07182,
+  "longitude": 31.24495,
+  "canonical": "Shobra"
+}
+  ],
+  "Iraq": [
+    {
+"name": "Basrah",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Basra",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Al Basrah",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Al-Basrah",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Al Basra",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Al-Baṣrah",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Al-Basra",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Bassora",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "Basora",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+{
+"name": "البصرة",
+"latitude": 30.5085,
+"longitude": 47.7804,
+"canonical": "Basrah"
+},
+
+{
+  "name": "Erbil",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Arbil",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Irbil",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Arbīl",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Erbīl",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Hawler",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "Hewlêr",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "هەولێر",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+{
+  "name": "أربيل",
+  "latitude": 36.19117,
+  "longitude": 44.00943,
+  "canonical": "Erbil"
+},
+
+{
+  "name": "Anas",
+  "latitude": 30.63747,
+  "longitude": 47.77207,
+  "canonical": "Anas"
+},
+{
+  "name": "Anās",
+  "latitude": 30.63747,
+  "longitude": 47.77207,
+  "canonical": "Anas"
+},
+{
+  "name": "Anass",
+  "latitude": 30.63747,
+  "longitude": 47.77207,
+  "canonical": "Anas"
+},
+{
+  "name": "Anes",
+  "latitude": 30.63747,
+  "longitude": 47.77207,
+  "canonical": "Anas"
+},
+{
+  "name": "أنس",
+  "latitude": 30.63747,
+  "longitude": 47.77207,
+  "canonical": "Anas"
+},
+
+{
+  "name": "Al Khurj",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+{
+  "name": "Al-Khurj",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+{
+  "name": "Al Khorj",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+{
+  "name": "Al Kherj",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+{
+  "name": "Al Kharj",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+{
+  "name": "الخرج",
+  "latitude": 35.36856,
+  "longitude": 43.08152,
+  "canonical": "Al Khurj"
+},
+
+{
+  "name": "Nineveh",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+{
+  "name": "Ninewa",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+{
+  "name": "Ninawa",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+{
+  "name": "Nīnawā",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+{
+  "name": "Ninive",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+{
+  "name": "نينوى",
+  "latitude": 36.335,
+  "longitude": 43.1189,
+  "canonical": "Nineveh"
+},
+
+{
+  "name": "Baghdad",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+},
+{
+  "name": "Bagdad",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+},
+{
+  "name": "Baghdād",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+},
+{
+  "name": "Baġdād",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+},
+{
+  "name": "Bağdat",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+},
+{
+  "name": "بغداد",
+  "latitude": 33.3167,
+  "longitude": 44.3667,
+  "canonical": "Baghdad"
+}
+  ],
+  "Jordan": [
+    {
+"name": "Amman",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "ʿAmmān",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "Ammān",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "Amman City",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "Greater Amman",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "عمان",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+{
+"name": "عمّان",
+"latitude": 31.95522,
+"longitude": 35.94503,
+"canonical": "Amman"
+},
+
+{
+  "name": "Irbid",
+  "latitude": 32.55556,
+  "longitude": 35.85,
+  "canonical": "Irbid"
+},
+{
+  "name": "Irbīd",
+  "latitude": 32.55556,
+  "longitude": 35.85,
+  "canonical": "Irbid"
+},
+{
+  "name": "Erbid",
+  "latitude": 32.55556,
+  "longitude": 35.85,
+  "canonical": "Irbid"
+},
+{
+  "name": "Arbid",
+  "latitude": 32.55556,
+  "longitude": 35.85,
+  "canonical": "Irbid"
+},
+{
+  "name": "إربد",
+  "latitude": 32.55556,
+  "longitude": 35.85,
+  "canonical": "Irbid"
+},
+
+{
+  "name": "Aqaba",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+{
+  "name": "Aqabah",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+{
+  "name": "Al Aqaba",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+{
+  "name": "Al-ʿAqabah",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+{
+  "name": "El Aqaba",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+{
+  "name": "العقبة",
+  "latitude": 29.52667,
+  "longitude": 35.00778,
+  "canonical": "Aqaba"
+},
+
+{
+  "name": "Zarqa",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+},
+{
+  "name": "Az Zarqa",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+},
+{
+  "name": "Az-Zarqa",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+},
+{
+  "name": "Az Zarqāʾ",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+},
+{
+  "name": "Zarka",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+},
+{
+  "name": "الزرقاء",
+  "latitude": 32.06342,
+  "longitude": 36.08207,
+  "canonical": "Zarqa"
+}
+
+  ],
+  "Kuwait": [
+   {
+"name": "Kuwait City",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+"name": "Al Kuwayt",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+"name": "Al-Kuwayt",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+"name": "Madinat al-Kuwayt",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+"name": "City of Kuwait",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+"name": "مدينة الكويت",
+"latitude": 29.367,
+"longitude": 47.97429,
+"canonical": "Kuwait City"
+},
+{
+  "name": "Al Farwaniyah",
+  "latitude": 29.28023,
+  "longitude": 47.95745,
+  "canonical": "Al Farwaniyah"
+},
+{
+  "name": "Farwaniyah",
+  "latitude": 29.28023,
+  "longitude": 47.95745,
+  "canonical": "Al Farwaniyah"
+},
+{
+  "name": "Farwaniya",
+  "latitude": 29.28023,
+  "longitude": 47.95745,
+  "canonical": "Al Farwaniyah"
+},
+{
+  "name": "Al-Farwaniyah",
+  "latitude": 29.28023,
+  "longitude": 47.95745,
+  "canonical": "Al Farwaniyah"
+},
+{
+  "name": "الفروانية",
+  "latitude": 29.28023,
+  "longitude": 47.95745,
+  "canonical": "Al Farwaniyah"
+},
+
+{
+  "name": "Hawalli",
+  "latitude": 29.33783,
+  "longitude": 48.02354,
+  "canonical": "Hawalli"
+},
+{
+  "name": "Hawally",
+  "latitude": 29.33783,
+  "longitude": 48.02354,
+  "canonical": "Hawalli"
+},
+{
+  "name": "Ḥawallī",
+  "latitude": 29.33783,
+  "longitude": 48.02354,
+  "canonical": "Hawalli"
+},
+{
+  "name": "حولي",
+  "latitude": 29.33783,
+  "longitude": 48.02354,
+  "canonical": "Hawalli"
+},
+
+{
+  "name": "Al Ahmadi",
+  "latitude": 29.07694,
+  "longitude": 48.08389,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "Ahmadi",
+  "latitude": 29.07694,
+  "longitude": 48.08389,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "Al-Ahmadi",
+  "latitude": 29.07694,
+  "longitude": 48.08389,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "الأحمدي",
+  "latitude": 29.07694,
+  "longitude": 48.08389,
+  "canonical": "Al Ahmadi"
+},
+
+{
+  "name": "Al Ahmadi",
+  "latitude": 29.04556,
+  "longitude": 48.00583,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "Ahmadi",
+  "latitude": 29.04556,
+  "longitude": 48.00583,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "Al-Ahmadi",
+  "latitude": 29.04556,
+  "longitude": 48.00583,
+  "canonical": "Al Ahmadi"
+},
+{
+  "name": "الأحمدي",
+  "latitude": 29.04556,
+  "longitude": 48.00583,
+  "canonical": "Al Ahmadi"
+},
+
+{
+  "name": "As Salimiyah",
+  "latitude": 29.33483,
+  "longitude": 48.06775,
+  "canonical": "As Salimiyah"
+},
+{
+  "name": "Salmiya",
+  "latitude": 29.33483,
+  "longitude": 48.06775,
+  "canonical": "As Salimiyah"
+},
+{
+  "name": "Salmiya City",
+  "latitude": 29.33483,
+  "longitude": 48.06775,
+  "canonical": "As Salimiyah"
+},
+{
+  "name": "As-Sālimīyah",
+  "latitude": 29.33483,
+  "longitude": 48.06775,
+  "canonical": "As Salimiyah"
+},
+{
+  "name": "السالمية",
+  "latitude": 29.33483,
+  "longitude": 48.06775,
+  "canonical": "As Salimiyah"
+},
+
+{
+  "name": "Al Asimah Governorate",
+  "latitude": 29.33333,
+  "longitude": 47.91667,
+  "canonical": "Al Asimah Governorate"
+},
+{
+  "name": "Al Asimah",
+  "latitude": 29.33333,
+  "longitude": 47.91667,
+  "canonical": "Al Asimah Governorate"
+},
+{
+  "name": "Al-ʿĀṣimah",
+  "latitude": 29.33333,
+  "longitude": 47.91667,
+  "canonical": "Al Asimah Governorate"
+},
+{
+  "name": "Capital Governorate",
+  "latitude": 29.33333,
+  "longitude": 47.91667,
+  "canonical": "Al Asimah Governorate"
+},
+{
+  "name": "محافظة العاصمة",
+  "latitude": 29.33333,
+  "longitude": 47.91667,
+  "canonical": "Al Asimah Governorate"
+},
+
+{
+  "name": "Ash Shuwaykh",
+  "latitude": 29.35202,
+  "longitude": 47.95075,
+  "canonical": "Ash Shuwaykh"
+},
+{
+  "name": "Ash-Shuwaykh",
+  "latitude": 29.35202,
+  "longitude": 47.95075,
+  "canonical": "Ash Shuwaykh"
+},
+{
+  "name": "Shuwaykh",
+  "latitude": 29.35202,
+  "longitude": 47.95075,
+  "canonical": "Ash Shuwaykh"
+},
+{
+  "name": "Shuwaikh",
+  "latitude": 29.35202,
+  "longitude": 47.95075,
+  "canonical": "Ash Shuwaykh"
+},
+{
+  "name": "الشويخ",
+  "latitude": 29.35202,
+  "longitude": 47.95075,
+  "canonical": "Ash Shuwaykh"
+},
+
+{
+  "name": "Al Jahra",
+  "latitude": 29.5,
+  "longitude": 47.5,
+  "canonical": "Al Jahra"
+},
+{
+  "name": "Al-Jahra",
+  "latitude": 29.5,
+  "longitude": 47.5,
+  "canonical": "Al Jahra"
+},
+{
+  "name": "Jahra",
+  "latitude": 29.5,
+  "longitude": 47.5,
+  "canonical": "Al Jahra"
+},
+{
+  "name": "Al Jahrāʾ",
+  "latitude": 29.5,
+  "longitude": 47.5,
+  "canonical": "Al Jahra"
+},
+{
+  "name": "الجهراء",
+  "latitude": 29.5,
+  "longitude": 47.5,
+  "canonical": "Al Jahra"
+},
+
+{
+  "name": "Bayan",
+  "latitude": 29.29794,
+  "longitude": 48.05126,
+  "canonical": "Bayan"
+},
+{
+  "name": "Bayān",
+  "latitude": 29.29794,
+  "longitude": 48.05126,
+  "canonical": "Bayan"
+},
+{
+  "name": "بيان",
+  "latitude": 29.29794,
+  "longitude": 48.05126,
+  "canonical": "Bayan"
+},
+
+{
+  "name": "Al Rumaythayah",
+  "latitude": 29.31613,
+  "longitude": 48.07388,
+  "canonical": "Al Rumaythayah"
+},
+{
+  "name": "Al-Rumaythiyah",
+  "latitude": 29.31613,
+  "longitude": 48.07388,
+  "canonical": "Al Rumaythayah"
+},
+{
+  "name": "Rumaithiya",
+  "latitude": 29.31613,
+  "longitude": 48.07388,
+  "canonical": "Al Rumaythayah"
+},
+{
+  "name": "Rumaythiyah",
+  "latitude": 29.31613,
+  "longitude": 48.07388,
+  "canonical": "Al Rumaythayah"
+},
+{
+  "name": "الرميثية",
+  "latitude": 29.31613,
+  "longitude": 48.07388,
+  "canonical": "Al Rumaythayah"
+},
+
+{
+  "name": "Fahahil",
+  "latitude": 29.0825,
+  "longitude": 48.13028,
+  "canonical": "Fahahil"
+},
+{
+  "name": "Fahaheel",
+  "latitude": 29.0825,
+  "longitude": 48.13028,
+  "canonical": "Fahahil"
+},
+{
+  "name": "Al-Fahaheel",
+  "latitude": 29.0825,
+  "longitude": 48.13028,
+  "canonical": "Fahahil"
+},
+{
+  "name": "الفحيحيل",
+  "latitude": 29.0825,
+  "longitude": 48.13028,
+  "canonical": "Fahahil"
+},
+
+{
+  "name": "As Salamiyah",
+  "latitude": 24.20154,
+  "longitude": 47.28872,
+  "canonical": "As Salamiyah"
+},
+{
+  "name": "As-Salamiyah",
+  "latitude": 24.20154,
+  "longitude": 47.28872,
+  "canonical": "As Salamiyah"
+},
+{
+  "name": "Al Salamiyah",
+  "latitude": 24.20154,
+  "longitude": 47.28872,
+  "canonical": "As Salamiyah"
+},
+{
+  "name": "Salamiyah",
+  "latitude": 24.20154,
+  "longitude": 47.28872,
+  "canonical": "As Salamiyah"
+},
+{
+  "name": "السلمية",
+  "latitude": 24.20154,
+  "longitude": 47.28872,
+  "canonical": "As Salamiyah"
+}
+  ],
+  "Lebanon": [
+   {
+"name": "Beirut",
+"latitude": 33.89332,
+"longitude": 35.50157,
+"canonical": "Beirut"
+},
+{
+"name": "Beyrouth",
+"latitude": 33.89332,
+"longitude": 35.50157,
+"canonical": "Beirut"
+},
+{
+"name": "Beyrout",
+"latitude": 33.89332,
+"longitude": 35.50157,
+"canonical": "Beirut"
+},
+{
+"name": "Bayrut",
+"latitude": 33.89332,
+"longitude": 35.50157,
+"canonical": "Beirut"
+},
+{
+"name": "بيروت",
+"latitude": 33.89332,
+"longitude": 35.50157,
+"canonical": "Beirut"
+},
+{
+  "name": "Mount Lebanon",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+{
+  "name": "Mount-Lebanon",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+{
+  "name": "Mont Liban",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+{
+  "name": "Jabal Lubnan",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+{
+  "name": "محافظة جبل لبنان",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+{
+  "name": "جبل لبنان",
+  "latitude": 33.8339,
+  "longitude": 35.5442,
+  "canonical": "Mount Lebanon"
+},
+
+{
+  "name": "Bekaa",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "Beqaa",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "Biqaa",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "Biqā‘",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "Beqaa Valley",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "البقاع",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+{
+  "name": "محافظة البقاع",
+  "latitude": 33.83333,
+  "longitude": 36,
+  "canonical": "Bekaa"
+},
+
+{
+  "name": "South Lebanon",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "South Lebanon"
+},
+{
+  "name": "South Governorate",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "South Lebanon"
+},
+{
+  "name": "Liban-Sud",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "South Lebanon"
+},
+{
+  "name": "محافظة لبنان الجنوبي",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "South Lebanon"
+},
+{
+  "name": "الجنوب",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "South Lebanon"
+},
+
+{
+  "name": "Saida",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "Saida"
+},
+{
+  "name": "Sidon",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "Saida"
+},
+{
+  "name": "Ṣaydā",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "Saida"
+},
+{
+  "name": "Sayda",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "Saida"
+},
+{
+  "name": "صيدا",
+  "latitude": 33.55751,
+  "longitude": 35.37148,
+  "canonical": "Saida"
+},
+
+{
+  "name": "North Lebanon",
+  "latitude": 34.42208,
+  "longitude": 35.84065,
+  "canonical": "North Lebanon"
+},
+{
+  "name": "North Governorate",
+  "latitude": 34.42208,
+  "longitude": 35.84065,
+  "canonical": "North Lebanon"
+},
+{
+  "name": "Liban-Nord",
+  "latitude": 34.42208,
+  "longitude": 35.84065,
+  "canonical": "North Lebanon"
+},
+{
+  "name": "محافظة الشمال",
+  "latitude": 34.42208,
+  "longitude": 35.84065,
+  "canonical": "North Lebanon"
+},
+{
+  "name": "الشمال",
+  "latitude": 34.42208,
+  "longitude": 35.84065,
+  "canonical": "North Lebanon"
+},
+
+{
+  "name": "Zahle",
+  "latitude": 33.84675,
+  "longitude": 35.90203,
+  "canonical": "Zahle"
+},
+{
+  "name": "Zahlé",
+  "latitude": 33.84675,
+  "longitude": 35.90203,
+  "canonical": "Zahle"
+},
+{
+  "name": "Zahleh",
+  "latitude": 33.84675,
+  "longitude": 35.90203,
+  "canonical": "Zahle"
+},
+{
+  "name": "زحلة",
+  "latitude": 33.84675,
+  "longitude": 35.90203,
+  "canonical": "Zahle"
+},
+
+{
+  "name": "Jounieh",
+  "latitude": 33.98083,
+  "longitude": 35.61778,
+  "canonical": "Jounieh"
+},
+{
+  "name": "Juniyeh",
+  "latitude": 33.98083,
+  "longitude": 35.61778,
+  "canonical": "Jounieh"
+},
+{
+  "name": "Jūniyah",
+  "latitude": 33.98083,
+  "longitude": 35.61778,
+  "canonical": "Jounieh"
+},
+{
+  "name": "جونية",
+  "latitude": 33.98083,
+  "longitude": 35.61778,
+  "canonical": "Jounieh"
+},
+
+{
+  "name": "Baalbek-Hermel",
+  "latitude": 34.20833,
+  "longitude": 36.3,
+  "canonical": "Baalbek-Hermel"
+},
+{
+  "name": "Baalbeck-Hermel",
+  "latitude": 34.20833,
+  "longitude": 36.3,
+  "canonical": "Baalbek-Hermel"
+},
+{
+  "name": "Baalbek-Hermel Governorate",
+  "latitude": 34.20833,
+  "longitude": 36.3,
+  "canonical": "Baalbek-Hermel"
+},
+{
+  "name": "محافظة بعلبك الهرمل",
+  "latitude": 34.20833,
+  "longitude": 36.3,
+  "canonical": "Baalbek-Hermel"
+},
+{
+  "name": "بعلبك-الهرمل",
+  "latitude": 34.20833,
+  "longitude": 36.3,
+  "canonical": "Baalbek-Hermel"
+},
+
+{
+  "name": "Dbaye",
+  "latitude": 33.945,
+  "longitude": 35.59528,
+  "canonical": "Dbaye"
+},
+{
+  "name": "Dbayeh",
+  "latitude": 33.945,
+  "longitude": 35.59528,
+  "canonical": "Dbaye"
+},
+{
+  "name": "Dbaiyeh",
+  "latitude": 33.945,
+  "longitude": 35.59528,
+  "canonical": "Dbaye"
+},
+{
+  "name": "ضبية",
+  "latitude": 33.945,
+  "longitude": 35.59528,
+  "canonical": "Dbaye"
+},
+
+{
+  "name": "Akkar",
+  "latitude": 34.53333,
+  "longitude": 36.16667,
+  "canonical": "Akkar"
+},
+{
+  "name": "Akkar Governorate",
+  "latitude": 34.53333,
+  "longitude": 36.16667,
+  "canonical": "Akkar"
+},
+{
+  "name": "محافظة عكار",
+  "latitude": 34.53333,
+  "longitude": 36.16667,
+  "canonical": "Akkar"
+},
+{
+  "name": "عكار",
+  "latitude": 34.53333,
+  "longitude": 36.16667,
+  "canonical": "Akkar"
+},
+
+{
+  "name": "Baabda",
+  "latitude": 33.83389,
+  "longitude": 35.54417,
+  "canonical": "Baabda"
+},
+{
+  "name": "Baabda District",
+  "latitude": 33.83389,
+  "longitude": 35.54417,
+  "canonical": "Baabda"
+},
+{
+  "name": "Qadaa Baabda",
+  "latitude": 33.83389,
+  "longitude": 35.54417,
+  "canonical": "Baabda"
+},
+{
+  "name": "قضاء بعبدا",
+  "latitude": 33.83389,
+  "longitude": 35.54417,
+  "canonical": "Baabda"
+},
+{
+  "name": "بعبدا",
+  "latitude": 33.83389,
+  "longitude": 35.54417,
+  "canonical": "Baabda"
+}
+  ],
+  "Libya": [
+   {
+"name": "Tripoli",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "Tarabulus",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "Ṭarābulus",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "Tripoli of Libya",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "Trablus al-Gharb",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "طرابلس",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+{
+"name": "طرابلس الغرب",
+"latitude": 31,
+"longitude": 15,
+"canonical": "Tripoli"
+},
+
+{
+  "name": "Misratah",
+  "latitude": 32.37535,
+  "longitude": 15.09254,
+  "canonical": "Misratah"
+},
+{
+  "name": "Misrata",
+  "latitude": 32.37535,
+  "longitude": 15.09254,
+  "canonical": "Misratah"
+},
+{
+  "name": "Misurata",
+  "latitude": 32.37535,
+  "longitude": 15.09254,
+  "canonical": "Misratah"
+},
+{
+  "name": "Miṣrāta",
+  "latitude": 32.37535,
+  "longitude": 15.09254,
+  "canonical": "Misratah"
+},
+{
+  "name": "مصراتة",
+  "latitude": 32.37535,
+  "longitude": 15.09254,
+  "canonical": "Misratah"
+},
+
+{
+  "name": "Benghazi",
+  "latitude": 32.11486,
+  "longitude": 20.06859,
+  "canonical": "Benghazi"
+},
+{
+  "name": "Banghazi",
+  "latitude": 32.11486,
+  "longitude": 20.06859,
+  "canonical": "Benghazi"
+},
+{
+  "name": "Binghazi",
+  "latitude": 32.11486,
+  "longitude": 20.06859,
+  "canonical": "Benghazi"
+},
+{
+  "name": "Bengasi",
+  "latitude": 32.11486,
+  "longitude": 20.06859,
+  "canonical": "Benghazi"
+},
+{
+  "name": "بنغازي",
+  "latitude": 32.11486,
+  "longitude": 20.06859,
+  "canonical": "Benghazi"
+},
+
+{
+  "name": "Mohamed Salah Ihi Tiouke",
+  "latitude": 22.90274,
+  "longitude": 19.38169,
+  "canonical": "Mohamed Salah Ihi Tiouke"
+},
+{
+  "name": "Mohamed Salah Ihi Tiouk",
+  "latitude": 22.90274,
+  "longitude": 19.38169,
+  "canonical": "Mohamed Salah Ihi Tiouke"
+},
+{
+  "name": "Muhammad Salah Ihi Tiouke",
+  "latitude": 22.90274,
+  "longitude": 19.38169,
+  "canonical": "Mohamed Salah Ihi Tiouke"
+},
+{
+  "name": "Mohammad Salah Ihi Tiouke",
+  "latitude": 22.90274,
+  "longitude": 19.38169,
+  "canonical": "Mohamed Salah Ihi Tiouke"
+},
+
+{
+  "name": "Sidi Kasar",
+  "latitude": 32.71167,
+  "longitude": 21.13194,
+  "canonical": "Sidi Kasar"
+},
+{
+  "name": "Sidi Qasar",
+  "latitude": 32.71167,
+  "longitude": 21.13194,
+  "canonical": "Sidi Kasar"
+},
+{
+  "name": "Sidi Kasr",
+  "latitude": 32.71167,
+  "longitude": 21.13194,
+  "canonical": "Sidi Kasar"
+},
+{
+  "name": "Sīdī Qasr",
+  "latitude": 32.71167,
+  "longitude": 21.13194,
+  "canonical": "Sidi Kasar"
+},
+{
+  "name": "سيدي قصر",
+  "latitude": 32.71167,
+  "longitude": 21.13194,
+  "canonical": "Sidi Kasar"
+},
+
+{
+  "name": "Ra's al Alas",
+  "latitude": 30.3835,
+  "longitude": 18.79116,
+  "canonical": "Ra's al Alas"
+},
+{
+  "name": "Ras al Alas",
+  "latitude": 30.3835,
+  "longitude": 18.79116,
+  "canonical": "Ra's al Alas"
+},
+{
+  "name": "Ra’s al Alas",
+  "latitude": 30.3835,
+  "longitude": 18.79116,
+  "canonical": "Ra's al Alas"
+},
+{
+  "name": "R'as al Alas",
+  "latitude": 30.3835,
+  "longitude": 18.79116,
+  "canonical": "Ra's al Alas"
+},
+
+{
+  "name": "Al Marj",
+  "latitude": 31.78333,
+  "longitude": 21.2,
+  "canonical": "Al Marj"
+},
+{
+  "name": "El Marj",
+  "latitude": 31.78333,
+  "longitude": 21.2,
+  "canonical": "Al Marj"
+},
+{
+  "name": "Al-Marj",
+  "latitude": 31.78333,
+  "longitude": 21.2,
+  "canonical": "Al Marj"
+},
+{
+  "name": "المرج",
+  "latitude": 31.78333,
+  "longitude": 21.2,
+  "canonical": "Al Marj"
+},
+
+{
+  "name": "Zawiya",
+  "latitude": 32.75222,
+  "longitude": 12.72778,
+  "canonical": "Zawiya"
+},
+{
+  "name": "Az Zawiyah",
+  "latitude": 32.75222,
+  "longitude": 12.72778,
+  "canonical": "Zawiya"
+},
+{
+  "name": "Zawiyah",
+  "latitude": 32.75222,
+  "longitude": 12.72778,
+  "canonical": "Zawiya"
+},
+{
+  "name": "Azzawiya",
+  "latitude": 32.75222,
+  "longitude": 12.72778,
+  "canonical": "Zawiya"
+},
+{
+  "name": "الزاوية",
+  "latitude": 32.75222,
+  "longitude": 12.72778,
+  "canonical": "Zawiya"
+},
+
+{
+  "name": "Zliten",
+  "latitude": 32.46739,
+  "longitude": 14.56874,
+  "canonical": "Zliten"
+},
+{
+  "name": "Zlitan",
+  "latitude": 32.46739,
+  "longitude": 14.56874,
+  "canonical": "Zliten"
+},
+{
+  "name": "Zleiten",
+  "latitude": 32.46739,
+  "longitude": 14.56874,
+  "canonical": "Zliten"
+},
+{
+  "name": "Zlīten",
+  "latitude": 32.46739,
+  "longitude": 14.56874,
+  "canonical": "Zliten"
+},
+{
+  "name": "زليتن",
+  "latitude": 32.46739,
+  "longitude": 14.56874,
+  "canonical": "Zliten"
+},
+
+{
+  "name": "Al Aziziyah",
+  "latitude": 32.53194,
+  "longitude": 13.0175,
+  "canonical": "Al Aziziyah"
+},
+{
+  "name": "Al ʿAzīziyah",
+  "latitude": 32.53194,
+  "longitude": 13.0175,
+  "canonical": "Al Aziziyah"
+},
+{
+  "name": "Al Aziziyya",
+  "latitude": 32.53194,
+  "longitude": 13.0175,
+  "canonical": "Al Aziziyah"
+},
+{
+  "name": "El Aziziyah",
+  "latitude": 32.53194,
+  "longitude": 13.0175,
+  "canonical": "Al Aziziyah"
+},
+{
+  "name": "العزيزية",
+  "latitude": 32.53194,
+  "longitude": 13.0175,
+  "canonical": "Al Aziziyah"
+},
+
+{
+  "name": "Al Mudayyinah",
+  "latitude": 32.22694,
+  "longitude": 12.10965,
+  "canonical": "Al Mudayyinah"
+},
+{
+  "name": "Al-Mudayyinah",
+  "latitude": 32.22694,
+  "longitude": 12.10965,
+  "canonical": "Al Mudayyinah"
+},
+{
+  "name": "Al Mudayinah",
+  "latitude": 32.22694,
+  "longitude": 12.10965,
+  "canonical": "Al Mudayyinah"
+},
+{
+  "name": "Mudayyinah",
+  "latitude": 32.22694,
+  "longitude": 12.10965,
+  "canonical": "Al Mudayyinah"
+},
+
+{
+  "name": "Al Khaymah",
+  "latitude": 31.93333,
+  "longitude": 23.06667,
+  "canonical": "Al Khaymah"
+},
+{
+  "name": "Al-Khaymah",
+  "latitude": 31.93333,
+  "longitude": 23.06667,
+  "canonical": "Al Khaymah"
+},
+{
+  "name": "Al Khaimah",
+  "latitude": 31.93333,
+  "longitude": 23.06667,
+  "canonical": "Al Khaymah"
+},
+{
+  "name": "Khayma",
+  "latitude": 31.93333,
+  "longitude": 23.06667,
+  "canonical": "Al Khaymah"
+},
+{
+  "name": "الخيمة",
+  "latitude": 31.93333,
+  "longitude": 23.06667,
+  "canonical": "Al Khaymah"
+},
+
+{
+  "name": "Ain Zara",
+  "latitude": 32.81333,
+  "longitude": 13.26972,
+  "canonical": "Ain Zara"
+},
+{
+  "name": "ʿAyn Zara",
+  "latitude": 32.81333,
+  "longitude": 13.26972,
+  "canonical": "Ain Zara"
+},
+{
+  "name": "Ain Zarah",
+  "latitude": 32.81333,
+  "longitude": 13.26972,
+  "canonical": "Ain Zara"
+},
+{
+  "name": "Ein Zara",
+  "latitude": 32.81333,
+  "longitude": 13.26972,
+  "canonical": "Ain Zara"
+},
+{
+  "name": "عين زارة",
+  "latitude": 32.81333,
+  "longitude": 13.26972,
+  "canonical": "Ain Zara"
+}
+  ],
+  "Morocco": [
+    {
+"name": "Casablanca-Settat",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+{
+"name": "Casablanca–Settat",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+{
+"name": "Casablanca Settat",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+{
+"name": "Casablanca-Settat Region",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+{
+"name": "جهة الدار البيضاء-سطات",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+{
+"name": "جهة الدار البيضاء–سطات",
+"latitude": 33.27,
+"longitude": -7.58,
+"canonical": "Casablanca-Settat"
+},
+
+{
+  "name": "Casablanca",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+{
+  "name": "Dar el Beida",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+{
+  "name": "Dar al Bayda",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+{
+  "name": "Ad-Dār al-Bayḍāʾ",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+{
+  "name": "Casa",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+{
+  "name": "الدار البيضاء",
+  "latitude": 33.58831,
+  "longitude": -7.61138,
+  "canonical": "Casablanca"
+},
+
+{
+  "name": "Rabat Sale Kenitra",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+{
+  "name": "Rabat-Sale-Kenitra",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+{
+  "name": "Rabat–Salé–Kénitra",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+{
+  "name": "Rabat-Salé-Kénitra",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+{
+  "name": "جهة الرباط-سلا-القنيطرة",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+{
+  "name": "جهة الرباط–سلا–القنيطرة",
+  "latitude": 34.02,
+  "longitude": -6.83,
+  "canonical": "Rabat Sale Kenitra"
+},
+
+{
+  "name": "Al Hoceima",
+  "latitude": 35.25165,
+  "longitude": -3.93723,
+  "canonical": "Al Hoceima"
+},
+{
+  "name": "Al-Hoceima",
+  "latitude": 35.25165,
+  "longitude": -3.93723,
+  "canonical": "Al Hoceima"
+},
+{
+  "name": "Al Hoceïma",
+  "latitude": 35.25165,
+  "longitude": -3.93723,
+  "canonical": "Al Hoceima"
+},
+{
+  "name": "Alhucemas",
+  "latitude": 35.25165,
+  "longitude": -3.93723,
+  "canonical": "Al Hoceima"
+},
+{
+  "name": "الحسيمة",
+  "latitude": 35.25165,
+  "longitude": -3.93723,
+  "canonical": "Al Hoceima"
+},
+
+{
+  "name": "Marrakesh-Safi",
+  "latitude": 31.63488,
+  "longitude": -7.98569,
+  "canonical": "Marrakesh-Safi"
+},
+{
+  "name": "Marrakech-Safi",
+  "latitude": 31.63488,
+  "longitude": -7.98569,
+  "canonical": "Marrakesh-Safi"
+},
+{
+  "name": "Marrakesh–Safi",
+  "latitude": 31.63488,
+  "longitude": -7.98569,
+  "canonical": "Marrakesh-Safi"
+},
+{
+  "name": "جهة مراكش آسفي",
+  "latitude": 31.63488,
+  "longitude": -7.98569,
+  "canonical": "Marrakesh-Safi"
+},
+{
+  "name": "جهة مراكش-آسفي",
+  "latitude": 31.63488,
+  "longitude": -7.98569,
+  "canonical": "Marrakesh-Safi"
+},
+
+{
+  "name": "Tizi Ou Zemmour",
+  "latitude": 34.49683,
+  "longitude": -2.73512,
+  "canonical": "Tizi Ou Zemmour"
+},
+{
+  "name": "Tizi Ouzemmour",
+  "latitude": 34.49683,
+  "longitude": -2.73512,
+  "canonical": "Tizi Ou Zemmour"
+},
+{
+  "name": "Tizi Ouzemour",
+  "latitude": 34.49683,
+  "longitude": -2.73512,
+  "canonical": "Tizi Ou Zemmour"
+},
+{
+  "name": "تيزي أو زمور",
+  "latitude": 34.49683,
+  "longitude": -2.73512,
+  "canonical": "Tizi Ou Zemmour"
+},
+
+{
+  "name": "Marrakesh",
+  "latitude": 31.63416,
+  "longitude": -7.99994,
+  "canonical": "Marrakesh"
+},
+{
+  "name": "Marrakech",
+  "latitude": 31.63416,
+  "longitude": -7.99994,
+  "canonical": "Marrakesh"
+},
+{
+  "name": "Marrakesh City",
+  "latitude": 31.63416,
+  "longitude": -7.99994,
+  "canonical": "Marrakesh"
+},
+{
+  "name": "مراكش",
+  "latitude": 31.63416,
+  "longitude": -7.99994,
+  "canonical": "Marrakesh"
+},
+
+{
+  "name": "Rabat",
+  "latitude": 34.01325,
+  "longitude": -6.83255,
+  "canonical": "Rabat"
+},
+{
+  "name": "Rabat City",
+  "latitude": 34.01325,
+  "longitude": -6.83255,
+  "canonical": "Rabat"
+},
+{
+  "name": "Ar-Ribāt",
+  "latitude": 34.01325,
+  "longitude": -6.83255,
+  "canonical": "Rabat"
+},
+{
+  "name": "الرباط",
+  "latitude": 34.01325,
+  "longitude": -6.83255,
+  "canonical": "Rabat"
+},
+
+{
+  "name": "Tangier",
+  "latitude": 35.76727,
+  "longitude": -5.79975,
+  "canonical": "Tangier"
+},
+{
+  "name": "Tanger",
+  "latitude": 35.76727,
+  "longitude": -5.79975,
+  "canonical": "Tangier"
+},
+{
+  "name": "Tangiers",
+  "latitude": 35.76727,
+  "longitude": -5.79975,
+  "canonical": "Tangier"
+},
+{
+  "name": "Tánger",
+  "latitude": 35.76727,
+  "longitude": -5.79975,
+  "canonical": "Tangier"
+},
+{
+  "name": "طنجة",
+  "latitude": 35.76727,
+  "longitude": -5.79975,
+  "canonical": "Tangier"
+},
+
+{
+  "name": "Souss-Massa",
+  "latitude": 30.42539,
+  "longitude": -9.56566,
+  "canonical": "Souss-Massa"
+},
+{
+  "name": "Souss – Massa",
+  "latitude": 30.42539,
+  "longitude": -9.56566,
+  "canonical": "Souss-Massa"
+},
+{
+  "name": "Souss Massa",
+  "latitude": 30.42539,
+  "longitude": -9.56566,
+  "canonical": "Souss-Massa"
+},
+{
+  "name": "جهة سوس ماسة",
+  "latitude": 30.42539,
+  "longitude": -9.56566,
+  "canonical": "Souss-Massa"
+},
+{
+  "name": "سوس-ماسة",
+  "latitude": 30.42539,
+  "longitude": -9.56566,
+  "canonical": "Souss-Massa"
+},
+
+{
+  "name": "Fez-Meknes",
+  "latitude": 33.6,
+  "longitude": -5.2,
+  "canonical": "Fez-Meknes"
+},
+{
+  "name": "Fès-Meknès",
+  "latitude": 33.6,
+  "longitude": -5.2,
+  "canonical": "Fez-Meknes"
+},
+{
+  "name": "Fez–Meknes",
+  "latitude": 33.6,
+  "longitude": -5.2,
+  "canonical": "Fez-Meknes"
+},
+{
+  "name": "جهة فاس-مكناس",
+  "latitude": 33.6,
+  "longitude": -5.2,
+  "canonical": "Fez-Meknes"
+},
+{
+  "name": "فاس-مكناس",
+  "latitude": 33.6,
+  "longitude": -5.2,
+  "canonical": "Fez-Meknes"
+},
+
+{
+  "name": "Kenitra",
+  "latitude": 34.26101,
+  "longitude": -6.5802,
+  "canonical": "Kenitra"
+},
+{
+  "name": "Kénitra",
+  "latitude": 34.26101,
+  "longitude": -6.5802,
+  "canonical": "Kenitra"
+},
+{
+  "name": "Al Qunayṭira",
+  "latitude": 34.26101,
+  "longitude": -6.5802,
+  "canonical": "Kenitra"
+},
+{
+  "name": "القنيطرة",
+  "latitude": 34.26101,
+  "longitude": -6.5802,
+  "canonical": "Kenitra"
+},
+
+{
+  "name": "Hay Moulay Rachid",
+  "latitude": 32.21272,
+  "longitude": -7.92299,
+  "canonical": "Hay Moulay Rachid"
+},
+{
+  "name": "Hay Moulay Rchid",
+  "latitude": 32.21272,
+  "longitude": -7.92299,
+  "canonical": "Hay Moulay Rachid"
+},
+{
+  "name": "Moulay Rachid District",
+  "latitude": 32.21272,
+  "longitude": -7.92299,
+  "canonical": "Hay Moulay Rachid"
+},
+{
+  "name": "Quartier Moulay Rachid",
+  "latitude": 32.21272,
+  "longitude": -7.92299,
+  "canonical": "Hay Moulay Rachid"
+},
+{
+  "name": "حي مولاي رشيد",
+  "latitude": 32.21272,
+  "longitude": -7.92299,
+  "canonical": "Hay Moulay Rachid"
+},
+
+{
+  "name": "Mechouar",
+  "latitude": 31.62,
+  "longitude": -7.99,
+  "canonical": "Mechouar"
+},
+{
+  "name": "El Mechouar",
+  "latitude": 31.62,
+  "longitude": -7.99,
+  "canonical": "Mechouar"
+},
+{
+  "name": "Mechouar-Kasbah",
+  "latitude": 31.62,
+  "longitude": -7.99,
+  "canonical": "Mechouar"
+},
+{
+  "name": "Mechouar Kasbah",
+  "latitude": 31.62,
+  "longitude": -7.99,
+  "canonical": "Mechouar"
+},
+{
+  "name": "المشور",
+  "latitude": 31.62,
+  "longitude": -7.99,
+  "canonical": "Mechouar"
+},
+
+{
+  "name": "Agadir",
+  "latitude": 30.42018,
+  "longitude": -9.59815,
+  "canonical": "Agadir"
+},
+{
+  "name": "Agadir City",
+  "latitude": 30.42018,
+  "longitude": -9.59815,
+  "canonical": "Agadir"
+},
+{
+  "name": "أكادير",
+  "latitude": 30.42018,
+  "longitude": -9.59815,
+  "canonical": "Agadir"
+}
+  ],
+  "Mauritania": [
+    {
+"name": "Nouakchott",
+"latitude": 18.08581,
+"longitude": -15.9785,
+"canonical": "Nouakchott"
+},
+{
+"name": "نواكشوط",
+"latitude": 18.08581,
+"longitude": -15.9785,
+"canonical": "Nouakchott"
+},
+{
+  "name": "Nouakchott Nord",
+  "latitude": 18.23333,
+  "longitude": -15.91667,
+  "canonical": "Nouakchott Nord"
+},
+{
+  "name": "Nouakchott-Nord",
+  "latitude": 18.23333,
+  "longitude": -15.91667,
+  "canonical": "Nouakchott Nord"
+},
+{
+  "name": "Nouakchott North",
+  "latitude": 18.23333,
+  "longitude": -15.91667,
+  "canonical": "Nouakchott Nord"
+},
+{
+  "name": "Nouakchott ash Shamaliyah",
+  "latitude": 18.23333,
+  "longitude": -15.91667,
+  "canonical": "Nouakchott Nord"
+},
+{
+  "name": "نواكشوط الشمالية",
+  "latitude": 18.23333,
+  "longitude": -15.91667,
+  "canonical": "Nouakchott Nord"
+},
+
+{
+  "name": "Akjoujt",
+  "latitude": 19.82936,
+  "longitude": -14.5197,
+  "canonical": "Akjoujt"
+},
+{
+  "name": "Akjout",
+  "latitude": 19.82936,
+  "longitude": -14.5197,
+  "canonical": "Akjoujt"
+},
+{
+  "name": "Akjoult",
+  "latitude": 19.82936,
+  "longitude": -14.5197,
+  "canonical": "Akjoujt"
+},
+{
+  "name": "Akjūjt",
+  "latitude": 19.82936,
+  "longitude": -14.5197,
+  "canonical": "Akjoujt"
+},
+{
+  "name": "أكجوجت",
+  "latitude": 19.82936,
+  "longitude": -14.5197,
+  "canonical": "Akjoujt"
+},
+
+{
+  "name": "Hodh ech Chargui",
+  "latitude": 18.88333,
+  "longitude": -7,
+  "canonical": "Hodh ech Chargui"
+},
+{
+  "name": "Hodh el Chargui",
+  "latitude": 18.88333,
+  "longitude": -7,
+  "canonical": "Hodh ech Chargui"
+},
+{
+  "name": "Hodh ech Charghi",
+  "latitude": 18.88333,
+  "longitude": -7,
+  "canonical": "Hodh ech Chargui"
+},
+{
+  "name": "Hodh ash Sharqi",
+  "latitude": 18.88333,
+  "longitude": -7,
+  "canonical": "Hodh ech Chargui"
+},
+{
+  "name": "الحوض الشرقي",
+  "latitude": 18.88333,
+  "longitude": -7,
+  "canonical": "Hodh ech Chargui"
+},
+
+{
+  "name": "Brakna",
+  "latitude": 17.25,
+  "longitude": -13.4,
+  "canonical": "Brakna"
+},
+{
+  "name": "El Brakna",
+  "latitude": 17.25,
+  "longitude": -13.4,
+  "canonical": "Brakna"
+},
+{
+  "name": "Al Brakna",
+  "latitude": 17.25,
+  "longitude": -13.4,
+  "canonical": "Brakna"
+},
+{
+  "name": "Brakna Region",
+  "latitude": 17.25,
+  "longitude": -13.4,
+  "canonical": "Brakna"
+},
+{
+  "name": "البراكنة",
+  "latitude": 17.25,
+  "longitude": -13.4,
+  "canonical": "Brakna"
+},
+
+{
+  "name": "Trarza",
+  "latitude": 17.8665,
+  "longitude": -14.65878,
+  "canonical": "Trarza"
+},
+{
+  "name": "Trârza",
+  "latitude": 17.8665,
+  "longitude": -14.65878,
+  "canonical": "Trarza"
+},
+{
+  "name": "Trarza Region",
+  "latitude": 17.8665,
+  "longitude": -14.65878,
+  "canonical": "Trarza"
+},
+{
+  "name": "الترارزة",
+  "latitude": 17.8665,
+  "longitude": -14.65878,
+  "canonical": "Trarza"
+},
+
+{
+  "name": "Inchiri",
+  "latitude": 20.06194,
+  "longitude": -15.14889,
+  "canonical": "Inchiri"
+},
+{
+  "name": "Inchīrī",
+  "latitude": 20.06194,
+  "longitude": -15.14889,
+  "canonical": "Inchiri"
+},
+{
+  "name": "Inchiry",
+  "latitude": 20.06194,
+  "longitude": -15.14889,
+  "canonical": "Inchiri"
+},
+{
+  "name": "ولاية إينشيري",
+  "latitude": 20.06194,
+  "longitude": -15.14889,
+  "canonical": "Inchiri"
+},
+
+{
+  "name": "Dakhlet el Brahim",
+  "latitude": 18.45141,
+  "longitude": -9.25285,
+  "canonical": "Dakhlet el Brahim"
+},
+{
+  "name": "Dakhlet al Brahim",
+  "latitude": 18.45141,
+  "longitude": -9.25285,
+  "canonical": "Dakhlet el Brahim"
+},
+{
+  "name": "Dakhlet al-Brahim",
+  "latitude": 18.45141,
+  "longitude": -9.25285,
+  "canonical": "Dakhlet el Brahim"
+},
+{
+  "name": "Dakhla Brahim",
+  "latitude": 18.45141,
+  "longitude": -9.25285,
+  "canonical": "Dakhlet el Brahim"
+},
+{
+  "name": "داخلت إبراهيم",
+  "latitude": 18.45141,
+  "longitude": -9.25285,
+  "canonical": "Dakhlet el Brahim"
+},
+
+{
+  "name": "Ar",
+  "latitude": 15.52588,
+  "longitude": -6.4597,
+  "canonical": "Ar"
+},
+{
+  "name": "Aar",
+  "latitude": 15.52588,
+  "longitude": -6.4597,
+  "canonical": "Ar"
+},
+{
+  "name": "ʿAr",
+  "latitude": 15.52588,
+  "longitude": -6.4597,
+  "canonical": "Ar"
+},
+{
+  "name": "أر",
+  "latitude": 15.52588,
+  "longitude": -6.4597,
+  "canonical": "Ar"
+},
+{
+  "name": "آر",
+  "latitude": 15.52588,
+  "longitude": -6.4597,
+  "canonical": "Ar"
+},
+
+{
+  "name": "Dhala",
+  "latitude": 15.2786,
+  "longitude": -10.87093,
+  "canonical": "Dhala"
+},
+{
+  "name": "Dhalla",
+  "latitude": 15.2786,
+  "longitude": -10.87093,
+  "canonical": "Dhala"
+},
+{
+  "name": "Dhalā",
+  "latitude": 15.2786,
+  "longitude": -10.87093,
+  "canonical": "Dhala"
+},
+{
+  "name": "ذلا",
+  "latitude": 15.2786,
+  "longitude": -10.87093,
+  "canonical": "Dhala"
+},
+
+{
+  "name": "Dakhlet Nouâdhibou",
+  "latitude": 20.87056,
+  "longitude": -16.90306,
+  "canonical": "Dakhlet Nouâdhibou"
+},
+{
+  "name": "Dakhlet Nouadhibou",
+  "latitude": 20.87056,
+  "longitude": -16.90306,
+  "canonical": "Dakhlet Nouâdhibou"
+},
+{
+  "name": "Dakhlet-Nouadhibou",
+  "latitude": 20.87056,
+  "longitude": -16.90306,
+  "canonical": "Dakhlet Nouâdhibou"
+},
+{
+  "name": "Dakhlet of Nouadhibou",
+  "latitude": 20.87056,
+  "longitude": -16.90306,
+  "canonical": "Dakhlet Nouâdhibou"
+},
+{
+  "name": "داخلت نواذيبو",
+  "latitude": 20.87056,
+  "longitude": -16.90306,
+  "canonical": "Dakhlet Nouâdhibou"
+},
+
+{
+  "name": "Madina",
+  "latitude": 15.44243,
+  "longitude": -10.12073,
+  "canonical": "Madina"
+},
+{
+  "name": "El Madina",
+  "latitude": 15.44243,
+  "longitude": -10.12073,
+  "canonical": "Madina"
+},
+{
+  "name": "Al Madina",
+  "latitude": 15.44243,
+  "longitude": -10.12073,
+  "canonical": "Madina"
+},
+{
+  "name": "Madinah",
+  "latitude": 15.44243,
+  "longitude": -10.12073,
+  "canonical": "Madina"
+},
+{
+  "name": "مدينة",
+  "latitude": 15.44243,
+  "longitude": -10.12073,
+  "canonical": "Madina"
+},
+
+{
+  "name": "Mahmoud",
+  "latitude": 15.96588,
+  "longitude": -11.36367,
+  "canonical": "Mahmoud"
+},
+{
+  "name": "Mahmud",
+  "latitude": 15.96588,
+  "longitude": -11.36367,
+  "canonical": "Mahmoud"
+},
+{
+  "name": "Maḥmūd",
+  "latitude": 15.96588,
+  "longitude": -11.36367,
+  "canonical": "Mahmoud"
+},
+{
+  "name": "محمود",
+  "latitude": 15.96588,
+  "longitude": -11.36367,
+  "canonical": "Mahmoud"
+}
+  ],
+  "Oman": [
+   {
+      "name": "nonecity",
+      "latitude": 123.456,
+      "longitude": 123.456,
+      "canonical": "nonecity"
+    }
+  ],
+  "Palestine": [
+   {
+"name": "Ramallah",
+"latitude": 31.90512,
+"longitude": 35.20588,
+"canonical": "Ramallah"
+},
+{
+"name": "Rammallah",
+"latitude": 31.90512,
+"longitude": 35.20588,
+"canonical": "Ramallah"
+},
+{
+"name": "Rāmallāh",
+"latitude": 31.90512,
+"longitude": 35.20588,
+"canonical": "Ramallah"
+},
+{
+"name": "Rām Allāh",
+"latitude": 31.90512,
+"longitude": 35.20588,
+"canonical": "Ramallah"
+},
+{
+"name": "رام الله",
+"latitude": 31.90512,
+"longitude": 35.20588,
+"canonical": "Ramallah"
+},
+
+{
+  "name": "Al Khalil",
+  "latitude": 31.5,
+  "longitude": 35.1,
+  "canonical": "Al Khalil"
+},
+{
+  "name": "Al-Khalil",
+  "latitude": 31.5,
+  "longitude": 35.1,
+  "canonical": "Al Khalil"
+},
+{
+  "name": "Al Khalīl",
+  "latitude": 31.5,
+  "longitude": 35.1,
+  "canonical": "Al Khalil"
+},
+{
+  "name": "Hebron",
+  "latitude": 31.5,
+  "longitude": 35.1,
+  "canonical": "Al Khalil"
+},
+{
+  "name": "الخليل",
+  "latitude": 31.5,
+  "longitude": 35.1,
+  "canonical": "Al Khalil"
+},
+
+{
+  "name": "Nablus",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "Nāblus",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "Nablous",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "Nabulus",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "Naplouse",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "Neapolis",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+{
+  "name": "نابلس",
+  "latitude": 32.24056,
+  "longitude": 35.28708,
+  "canonical": "Nablus"
+},
+
+{
+  "name": "Jerusalem",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Al Quds",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Al-Quds",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "al-Quds ash-Sharif",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Bayt al-Maqdis",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Bait al-Maqdis",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Jérusalem",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "Yerushalayim",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "ירושלים",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "القُدس",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+{
+  "name": "القدس الشريف",
+  "latitude": 31.76904,
+  "longitude": 35.21633,
+  "canonical": "Jerusalem"
+},
+
+{
+  "name": "Jenin",
+  "latitude": 32.46,
+  "longitude": 35.3,
+  "canonical": "Jenin"
+},
+{
+  "name": "Jenīn",
+  "latitude": 32.46,
+  "longitude": 35.3,
+  "canonical": "Jenin"
+},
+{
+  "name": "Janin",
+  "latitude": 32.46,
+  "longitude": 35.3,
+  "canonical": "Jenin"
+},
+{
+  "name": "Djénine",
+  "latitude": 32.46,
+  "longitude": 35.3,
+  "canonical": "Jenin"
+},
+{
+  "name": "جنين",
+  "latitude": 32.46,
+  "longitude": 35.3,
+  "canonical": "Jenin"
+},
+
+{
+  "name": "Gaza Strip",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+{
+  "name": "The Gaza Strip",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+{
+  "name": "Gaza",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+{
+  "name": "Ghazzah",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+{
+  "name": "Qiṭāʿ Ghazzah",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+{
+  "name": "قطاع غزة",
+  "latitude": 31.50161,
+  "longitude": 34.46672,
+  "canonical": "Gaza Strip"
+},
+
+{
+  "name": "Bethlehem",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+{
+  "name": "Bayt Lahm",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+{
+  "name": "Beit Lahm",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+{
+  "name": "Bayt Laḥm",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+{
+  "name": "Bethléem",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+{
+  "name": "بيت لحم",
+  "latitude": 31.70487,
+  "longitude": 35.20376,
+  "canonical": "Bethlehem"
+},
+
+{
+  "name": "Palestine",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "State of Palestine",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "Palestine State",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "Filastin",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "Filasṭīn",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "فلسطين",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+{
+  "name": "دولة فلسطين",
+  "latitude": 31.92157,
+  "longitude": 35.20329,
+  "canonical": "Palestine"
+},
+
+{
+  "name": "Al Muhafizah",
+  "latitude": 32.2143,
+  "longitude": 35.27477,
+  "canonical": "Al Muhafizah"
+},
+{
+  "name": "Al-Muhafizah",
+  "latitude": 32.2143,
+  "longitude": 35.27477,
+  "canonical": "Al Muhafizah"
+},
+{
+  "name": "Al Muḥāfaẓah",
+  "latitude": 32.2143,
+  "longitude": 35.27477,
+  "canonical": "Al Muhafizah"
+},
+{
+  "name": "Al Muhafazah",
+  "latitude": 32.2143,
+  "longitude": 35.27477,
+  "canonical": "Al Muhafizah"
+},
+{
+  "name": "المحافظة",
+  "latitude": 32.2143,
+  "longitude": 35.27477,
+  "canonical": "Al Muhafizah"
+},
+
+{
+  "name": "Tulkarm",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+{
+  "name": "Tulkarem",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+{
+  "name": "Tul Karm",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+{
+  "name": "Ṭūlkarm",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+{
+  "name": "Tulkaram",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+{
+  "name": "طولكرم",
+  "latitude": 32.31156,
+  "longitude": 35.0269,
+  "canonical": "Tulkarm"
+},
+
+{
+  "name": "West Bank",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "the West Bank",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "Cisjordan",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "الضفة الغربية",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "aḍ-Ḍiffah al-Gharbiyyah",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "Judea and Samaria",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+{
+  "name": "יהודה ושומרון",
+  "latitude": 31.66667,
+  "longitude": 35.25,
+  "canonical": "West Bank"
+},
+
+{
+  "name": "Jericho",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+},
+{
+  "name": "Ariha",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+},
+{
+  "name": "Arīḥā",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+},
+{
+  "name": "Yericho",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+},
+{
+  "name": "יריחו",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+},
+{
+  "name": "أريحا",
+  "latitude": 32.02492,
+  "longitude": 35.44548,
+  "canonical": "Jericho"
+}
+  ],
+  "Qatar": [
+    {
+"name": "Doha",
+"latitude": 25.286106,
+"longitude": 51.534817,
+"canonical": "Doha"
+},
+{
+"name": "Ad Dawhah",
+"latitude": 25.286106,
+"longitude": 51.534817,
+"canonical": "Doha"
+},
+{
+"name": "Ad-Dawhah",
+"latitude": 25.286106,
+"longitude": 51.534817,
+"canonical": "Doha"
+},
+{
+"name": "Doha City",
+"latitude": 25.286106,
+"longitude": 51.534817,
+"canonical": "Doha"
+},
+{
+"name": "الدوحة",
+"latitude": 25.286106,
+"longitude": 51.534817,
+"canonical": "Doha"
+},
+
+{
+  "name": "Al Rayyan",
+  "latitude": 24.91667,
+  "longitude": 51,
+  "canonical": "Al Rayyan"
+},
+{
+  "name": "Ar Rayyan",
+  "latitude": 24.91667,
+  "longitude": 51,
+  "canonical": "Al Rayyan"
+},
+{
+  "name": "Ar-Rayyan",
+  "latitude": 24.91667,
+  "longitude": 51,
+  "canonical": "Al Rayyan"
+},
+{
+  "name": "Al-Rayyān",
+  "latitude": 24.91667,
+  "longitude": 51,
+  "canonical": "Al Rayyan"
+},
+{
+  "name": "الريان",
+  "latitude": 24.91667,
+  "longitude": 51,
+  "canonical": "Al Rayyan"
+},
+
+{
+  "name": "Al Khawr",
+  "latitude": 25.68389,
+  "longitude": 51.50583,
+  "canonical": "Al Khawr"
+},
+{
+  "name": "Al Khor",
+  "latitude": 25.68389,
+  "longitude": 51.50583,
+  "canonical": "Al Khawr"
+},
+{
+  "name": "Al-Khor",
+  "latitude": 25.68389,
+  "longitude": 51.50583,
+  "canonical": "Al Khawr"
+},
+{
+  "name": "الخَوْر",
+  "latitude": 25.68389,
+  "longitude": 51.50583,
+  "canonical": "Al Khawr"
+},
+{
+  "name": "الخور",
+  "latitude": 25.68389,
+  "longitude": 51.50583,
+  "canonical": "Al Khawr"
+},
+
+{
+  "name": "Al Wakrah",
+  "latitude": 24.85,
+  "longitude": 51.33333,
+  "canonical": "Al Wakrah"
+},
+{
+  "name": "Al-Wakrah",
+  "latitude": 24.85,
+  "longitude": 51.33333,
+  "canonical": "Al Wakrah"
+},
+{
+  "name": "Al Wakra",
+  "latitude": 24.85,
+  "longitude": 51.33333,
+  "canonical": "Al Wakrah"
+},
+{
+  "name": "الوكرة",
+  "latitude": 24.85,
+  "longitude": 51.33333,
+  "canonical": "Al Wakrah"
+},
+
+{
+  "name": "Dukhan",
+  "latitude": 25.5337,
+  "longitude": 50.9214,
+  "canonical": "Dukhan"
+},
+{
+  "name": "Dukhān",
+  "latitude": 25.5337,
+  "longitude": 50.9214,
+  "canonical": "Dukhan"
+},
+{
+  "name": "دخان",
+  "latitude": 25.5337,
+  "longitude": 50.9214,
+  "canonical": "Dukhan"
+},
+
+{
+  "name": "Al Ghuwayriyah",
+  "latitude": 25.82882,
+  "longitude": 51.24567,
+  "canonical": "Al Ghuwayriyah"
+},
+{
+  "name": "Al Ghuwairiyah",
+  "latitude": 25.82882,
+  "longitude": 51.24567,
+  "canonical": "Al Ghuwayriyah"
+},
+{
+  "name": "Al Ghuwayriah",
+  "latitude": 25.82882,
+  "longitude": 51.24567,
+  "canonical": "Al Ghuwayriyah"
+},
+{
+  "name": "الغويرية",
+  "latitude": 25.82882,
+  "longitude": 51.24567,
+  "canonical": "Al Ghuwayriyah"
+},
+
+{
+  "name": "Umm Salal",
+  "latitude": 25.46667,
+  "longitude": 51.33333,
+  "canonical": "Umm Salal"
+},
+{
+  "name": "Umm Şalāl",
+  "latitude": 25.46667,
+  "longitude": 51.33333,
+  "canonical": "Umm Salal"
+},
+{
+  "name": "Umm Salal Municipality",
+  "latitude": 25.46667,
+  "longitude": 51.33333,
+  "canonical": "Umm Salal"
+},
+{
+  "name": "أم صلال",
+  "latitude": 25.46667,
+  "longitude": 51.33333,
+  "canonical": "Umm Salal"
+},
+
+{
+  "name": "Doha International Airport",
+  "latitude": 25.26486,
+  "longitude": 51.56356,
+  "canonical": "Doha International Airport"
+},
+{
+  "name": "Doha Intl Airport",
+  "latitude": 25.26486,
+  "longitude": 51.56356,
+  "canonical": "Doha International Airport"
+},
+{
+  "name": "Old Doha International Airport",
+  "latitude": 25.26486,
+  "longitude": 51.56356,
+  "canonical": "Doha International Airport"
+},
+{
+  "name": "مطار الدوحة الدولي",
+  "latitude": 25.26486,
+  "longitude": 51.56356,
+  "canonical": "Doha International Airport"
+},
+
+{
+  "name": "Umm Said",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+{
+  "name": "Umm Sa'id",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+{
+  "name": "Umm Saeed",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+{
+  "name": "Mesaieed",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+{
+  "name": "مسيعيد‎",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+{
+  "name": "أم سعيد",
+  "latitude": 24.98917,
+  "longitude": 51.50022,
+  "canonical": "Umm Said"
+},
+
+{
+  "name": "Al Udeid",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+{
+  "name": "Al-Udeid",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+{
+  "name": "Al Udaid",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+{
+  "name": "Al ʿUdayd",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+{
+  "name": "Al Udeid Air Base",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+{
+  "name": "العديد",
+  "latitude": 25.11667,
+  "longitude": 51.3,
+  "canonical": "Al Udeid"
+},
+
+{
+  "name": "Umm al Markh",
+  "latitude": 25.18067,
+  "longitude": 50.8096,
+  "canonical": "Umm al Markh"
+},
+{
+  "name": "Umm al-Markh",
+  "latitude": 25.18067,
+  "longitude": 50.8096,
+  "canonical": "Umm al Markh"
+},
+{
+  "name": "Umm al Markha",
+  "latitude": 25.18067,
+  "longitude": 50.8096,
+  "canonical": "Umm al Markh"
+},
+{
+  "name": "أم المرخ",
+  "latitude": 25.18067,
+  "longitude": 50.8096,
+  "canonical": "Umm al Markh"
+},
+
+{
+  "name": "Al Muntazah",
+  "latitude": 25.27073,
+  "longitude": 51.51969,
+  "canonical": "Al Muntazah"
+},
+{
+  "name": "Al-Muntazah",
+  "latitude": 25.27073,
+  "longitude": 51.51969,
+  "canonical": "Al Muntazah"
+},
+{
+  "name": "Al Montazah",
+  "latitude": 25.27073,
+  "longitude": 51.51969,
+  "canonical": "Al Muntazah"
+},
+{
+  "name": "المنتزه",
+  "latitude": 25.27073,
+  "longitude": 51.51969,
+  "canonical": "Al Muntazah"
+},
+
+{
+  "name": "Mesaieed",
+  "latitude": 24.99226,
+  "longitude": 51.55067,
+  "canonical": "Mesaieed"
+},
+{
+  "name": "Messaied",
+  "latitude": 24.99226,
+  "longitude": 51.55067,
+  "canonical": "Mesaieed"
+},
+{
+  "name": "Musay'id",
+  "latitude": 24.99226,
+  "longitude": 51.55067,
+  "canonical": "Mesaieed"
+},
+{
+  "name": "Al Musayied",
+  "latitude": 24.99226,
+  "longitude": 51.55067,
+  "canonical": "Mesaieed"
+},
+{
+  "name": "مسيعيد",
+  "latitude": 24.99226,
+  "longitude": 51.55067,
+  "canonical": "Mesaieed"
+},
+
+{
+  "name": "Al Bid",
+  "latitude": 25.29139,
+  "longitude": 51.52362,
+  "canonical": "Al Bid"
+},
+{
+  "name": "Al Bidda",
+  "latitude": 25.29139,
+  "longitude": 51.52362,
+  "canonical": "Al Bid"
+},
+{
+  "name": "Al Bidaa",
+  "latitude": 25.29139,
+  "longitude": 51.52362,
+  "canonical": "Al Bid"
+},
+{
+  "name": "Al Bidʿ",
+  "latitude": 25.29139,
+  "longitude": 51.52362,
+  "canonical": "Al Bid"
+},
+{
+  "name": "البدع",
+  "latitude": 25.29139,
+  "longitude": 51.52362,
+  "canonical": "Al Bid"
+},
+
+{
+  "name": "Al Jumayliyah",
+  "latitude": 25.25,
+  "longitude": 51.0,
+  "canonical": "Al Jumayliyah"
+},
+{
+  "name": "Al-Jumayliyah",
+  "latitude": 25.25,
+  "longitude": 51.0,
+  "canonical": "Al Jumayliyah"
+},
+{
+  "name": "Al Jemailiya",
+  "latitude": 25.25,
+  "longitude": 51.0,
+  "canonical": "Al Jumayliyah"
+},
+{
+  "name": "الجميلية",
+  "latitude": 25.25,
+  "longitude": 51.0,
+  "canonical": "Al Jumayliyah"
+}
+  ],
+  "Saudi Arabia": [
+    {
+"name": "Riyadh",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "Ar Riyad",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "Ar-Riyad",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "Ar-Riyāḍ",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "Riyad",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "Riad",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+{
+"name": "الرياض",
+"latitude": 24.68773,
+"longitude": 46.72185,
+"canonical": "Riyadh"
+},
+
+{
+  "name": "Jeddah",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+{
+  "name": "Jidda",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+{
+  "name": "Jiddah",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+{
+  "name": "Djeddah",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+{
+  "name": "Cidde",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+{
+  "name": "جدة",
+  "latitude": 21.49012,
+  "longitude": 39.18624,
+  "canonical": "Jeddah"
+},
+
+{
+  "name": "Ad Dammam",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+{
+  "name": "Dammam",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+{
+  "name": "Ad-Dammam",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+{
+  "name": "Al Dammam",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+{
+  "name": "Aḍ Ḍammām",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+{
+  "name": "الدمام",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Ad Dammam"
+},
+
+{
+  "name": "Makkah",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "Mecca",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "Mekka",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "Makkah al-Mukarramah",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "Mecca al-Mukarramah",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "مكة",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+{
+  "name": "مكة المكرمة",
+  "latitude": 21.42664,
+  "longitude": 39.82563,
+  "canonical": "Makkah"
+},
+
+{
+  "name": "Jubail",
+  "latitude": 27.0174,
+  "longitude": 49.62251,
+  "canonical": "Jubail"
+},
+{
+  "name": "Al Jubail",
+  "latitude": 27.0174,
+  "longitude": 49.62251,
+  "canonical": "Jubail"
+},
+{
+  "name": "Al-Jubayl",
+  "latitude": 27.0174,
+  "longitude": 49.62251,
+  "canonical": "Jubail"
+},
+{
+  "name": "Jubayl",
+  "latitude": 27.0174,
+  "longitude": 49.62251,
+  "canonical": "Jubail"
+},
+{
+  "name": "الجبيل",
+  "latitude": 27.0174,
+  "longitude": 49.62251,
+  "canonical": "Jubail"
+},
+
+{
+  "name": "Madinah",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+{
+  "name": "Medina",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+{
+  "name": "Al Madinah",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+{
+  "name": "Al-Madinah al-Munawwarah",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+{
+  "name": "المدينة",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+{
+  "name": "المدينة المنورة",
+  "latitude": 24.46861,
+  "longitude": 39.61417,
+  "canonical": "Madinah"
+},
+
+{
+  "name": "Khobar",
+  "latitude": 26.27944,
+  "longitude": 50.20833,
+  "canonical": "Khobar"
+},
+{
+  "name": "Al Khobar",
+  "latitude": 26.27944,
+  "longitude": 50.20833,
+  "canonical": "Khobar"
+},
+{
+  "name": "Al-Khobar",
+  "latitude": 26.27944,
+  "longitude": 50.20833,
+  "canonical": "Khobar"
+},
+{
+  "name": "Al Khubar",
+  "latitude": 26.27944,
+  "longitude": 50.20833,
+  "canonical": "Khobar"
+},
+{
+  "name": "الخبر",
+  "latitude": 26.27944,
+  "longitude": 50.20833,
+  "canonical": "Khobar"
+},
+
+{
+  "name": "Eastern Province",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+{
+  "name": "Eastern Region",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+{
+  "name": "Ash Sharqiyah",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+{
+  "name": "Ash-Sharqiyah Region",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+{
+  "name": "المنطقة الشرقية",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+{
+  "name": "الشرقية",
+  "latitude": 26.43442,
+  "longitude": 50.10326,
+  "canonical": "Eastern Province"
+},
+
+{
+  "name": "Tabuk",
+  "latitude": 28.3998,
+  "longitude": 36.57151,
+  "canonical": "Tabuk"
+},
+{
+  "name": "Tabouk",
+  "latitude": 28.3998,
+  "longitude": 36.57151,
+  "canonical": "Tabuk"
+},
+{
+  "name": "At Tabuk",
+  "latitude": 28.3998,
+  "longitude": 36.57151,
+  "canonical": "Tabuk"
+},
+{
+  "name": "Tabūk",
+  "latitude": 28.3998,
+  "longitude": 36.57151,
+  "canonical": "Tabuk"
+},
+{
+  "name": "تبوك",
+  "latitude": 28.3998,
+  "longitude": 36.57151,
+  "canonical": "Tabuk"
+},
+
+{
+  "name": "Al Qasim",
+  "latitude": 26.16667,
+  "longitude": 44,
+  "canonical": "Al Qasim"
+},
+{
+  "name": "Al-Qasim",
+  "latitude": 26.16667,
+  "longitude": 44,
+  "canonical": "Al Qasim"
+},
+{
+  "name": "Al Qassim",
+  "latitude": 26.16667,
+  "longitude": 44,
+  "canonical": "Al Qasim"
+},
+{
+  "name": "Qassim",
+  "latitude": 26.16667,
+  "longitude": 44,
+  "canonical": "Al Qasim"
+},
+{
+  "name": "القصيم",
+  "latitude": 26.16667,
+  "longitude": 44,
+  "canonical": "Al Qasim"
+},
+
+{
+  "name": "Asir Region",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+{
+  "name": "Aseer",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+{
+  "name": "Asir",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+{
+  "name": "Asīr",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+{
+  "name": "منطقة عسير",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+{
+  "name": "عسير",
+  "latitude": 18.21639,
+  "longitude": 42.50528,
+  "canonical": "Asir Region"
+},
+
+{
+  "name": "Al Khubar",
+  "latitude": 26.26667,
+  "longitude": 50.11667,
+  "canonical": "Al Khubar"
+},
+{
+  "name": "Al-Khubar",
+  "latitude": 26.26667,
+  "longitude": 50.11667,
+  "canonical": "Al Khubar"
+},
+{
+  "name": "Al Khobar",
+  "latitude": 26.26667,
+  "longitude": 50.11667,
+  "canonical": "Al Khubar"
+},
+{
+  "name": "الخبر",
+  "latitude": 26.26667,
+  "longitude": 50.11667,
+  "canonical": "Al Khubar"
+},
+
+{
+  "name": "Dhahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Ẓahrān",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Az Zahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Al Dhahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "الظهران",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+
+{
+  "name": "Al Qatif",
+  "latitude": 26.56542,
+  "longitude": 50.0089,
+  "canonical": "Al Qatif"
+},
+{
+  "name": "Qatif",
+  "latitude": 26.56542,
+  "longitude": 50.0089,
+  "canonical": "Al Qatif"
+},
+{
+  "name": "Al-Qaṭīf",
+  "latitude": 26.56542,
+  "longitude": 50.0089,
+  "canonical": "Al Qatif"
+},
+{
+  "name": "Qateef",
+  "latitude": 26.56542,
+  "longitude": 50.0089,
+  "canonical": "Al Qatif"
+},
+{
+  "name": "القطيف",
+  "latitude": 26.56542,
+  "longitude": 50.0089,
+  "canonical": "Al Qatif"
+},
+
+{
+  "name": "Yanbu",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+{
+  "name": "Yanbu'",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+{
+  "name": "Yanbu al-Bahr",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+{
+  "name": "Yenbo",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+{
+  "name": "ينبع",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+{
+  "name": "ينبع البحر",
+  "latitude": 24.05232,
+  "longitude": 38.15035,
+  "canonical": "Yanbu"
+},
+
+{
+  "name": "Al Ahsa",
+  "latitude": 25.36467,
+  "longitude": 49.58764,
+  "canonical": "Al Ahsa"
+},
+{
+  "name": "Al-Ahsa",
+  "latitude": 25.36467,
+  "longitude": 49.58764,
+  "canonical": "Al Ahsa"
+},
+{
+  "name": "Al Hasa",
+  "latitude": 25.36467,
+  "longitude": 49.58764,
+  "canonical": "Al Ahsa"
+},
+{
+  "name": "Al-Ḥasāʾ",
+  "latitude": 25.36467,
+  "longitude": 49.58764,
+  "canonical": "Al Ahsa"
+},
+{
+  "name": "الأحساء",
+  "latitude": 25.36467,
+  "longitude": 49.58764,
+  "canonical": "Al Ahsa"
+},
+
+{
+  "name": "Ta'if",
+  "latitude": 21.27028,
+  "longitude": 40.41583,
+  "canonical": "Ta'if"
+},
+{
+  "name": "Taif",
+  "latitude": 21.27028,
+  "longitude": 40.41583,
+  "canonical": "Ta'if"
+},
+{
+  "name": "Aṭ Ṭāʾif",
+  "latitude": 21.27028,
+  "longitude": 40.41583,
+  "canonical": "Ta'if"
+},
+{
+  "name": "At Taif",
+  "latitude": 21.27028,
+  "longitude": 40.41583,
+  "canonical": "Ta'if"
+},
+{
+  "name": "الطائف",
+  "latitude": 21.27028,
+  "longitude": 40.41583,
+  "canonical": "Ta'if"
+},
+
+{
+  "name": "Al Kharj",
+  "latitude": 24.15541,
+  "longitude": 47.33457,
+  "canonical": "Al Kharj"
+},
+{
+  "name": "Al-Kharj",
+  "latitude": 24.15541,
+  "longitude": 47.33457,
+  "canonical": "Al Kharj"
+},
+{
+  "name": "Kharj",
+  "latitude": 24.15541,
+  "longitude": 47.33457,
+  "canonical": "Al Kharj"
+},
+{
+  "name": "Al Khurj",
+  "latitude": 24.15541,
+  "longitude": 47.33457,
+  "canonical": "Al Kharj"
+},
+{
+  "name": "الخرج",
+  "latitude": 24.15541,
+  "longitude": 47.33457,
+  "canonical": "Al Kharj"
+},
+
+{
+  "name": "Ha'il",
+  "latitude": 27.52188,
+  "longitude": 41.69073,
+  "canonical": "Ha'il"
+},
+{
+  "name": "Hail",
+  "latitude": 27.52188,
+  "longitude": 41.69073,
+  "canonical": "Ha'il"
+},
+{
+  "name": "Ḥāʾil",
+  "latitude": 27.52188,
+  "longitude": 41.69073,
+  "canonical": "Ha'il"
+},
+{
+  "name": "Hael",
+  "latitude": 27.52188,
+  "longitude": 41.69073,
+  "canonical": "Ha'il"
+},
+{
+  "name": "حائل",
+  "latitude": 27.52188,
+  "longitude": 41.69073,
+  "canonical": "Ha'il"
+},
+
+{
+  "name": "Tayma'",
+  "latitude": 27.75,
+  "longitude": 38.58333,
+  "canonical": "Tayma'"
+},
+{
+  "name": "Tayma",
+  "latitude": 27.75,
+  "longitude": 38.58333,
+  "canonical": "Tayma'"
+},
+{
+  "name": "Taymāʼ",
+  "latitude": 27.75,
+  "longitude": 38.58333,
+  "canonical": "Tayma'"
+},
+{
+  "name": "Tema",
+  "latitude": 27.75,
+  "longitude": 38.58333,
+  "canonical": "Tayma'"
+},
+{
+  "name": "تيماء",
+  "latitude": 27.75,
+  "longitude": 38.58333,
+  "canonical": "Tayma'"
+},
+
+{
+  "name": "Bahrah",
+  "latitude": 21.40188,
+  "longitude": 39.44603,
+  "canonical": "Bahrah"
+},
+{
+  "name": "Bahra",
+  "latitude": 21.40188,
+  "longitude": 39.44603,
+  "canonical": "Bahrah"
+},
+{
+  "name": "Baḥrah",
+  "latitude": 21.40188,
+  "longitude": 39.44603,
+  "canonical": "Bahrah"
+},
+{
+  "name": "بحرة",
+  "latitude": 21.40188,
+  "longitude": 39.44603,
+  "canonical": "Bahrah"
+},
+
+{
+  "name": "Al Aflaj",
+  "latitude": 22.08333,
+  "longitude": 46.83333,
+  "canonical": "Al Aflaj"
+},
+{
+  "name": "Al-Aflaj",
+  "latitude": 22.08333,
+  "longitude": 46.83333,
+  "canonical": "Al Aflaj"
+},
+{
+  "name": "Aflaj",
+  "latitude": 22.08333,
+  "longitude": 46.83333,
+  "canonical": "Al Aflaj"
+},
+{
+  "name": "Al-Aflāj",
+  "latitude": 22.08333,
+  "longitude": 46.83333,
+  "canonical": "Al Aflaj"
+},
+{
+  "name": "الأفلاج",
+  "latitude": 22.08333,
+  "longitude": 46.83333,
+  "canonical": "Al Aflaj"
+},
+
+{
+  "name": "Al Muwayh",
+  "latitude": 22.43333,
+  "longitude": 41.75829,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al-Muwayh",
+  "latitude": 22.43333,
+  "longitude": 41.75829,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al Muweh",
+  "latitude": 22.43333,
+  "longitude": 41.75829,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al Muwaih",
+  "latitude": 22.43333,
+  "longitude": 41.75829,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "المويه",
+  "latitude": 22.43333,
+  "longitude": 41.75829,
+  "canonical": "Al Muwayh"
+},
+
+{
+  "name": "Dhahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Ẓahrān",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Az Zahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "Al Dhahran",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+},
+{
+  "name": "الظهران",
+  "latitude": 26.28864,
+  "longitude": 50.11396,
+  "canonical": "Dhahran"
+}
+  ],
+  "Somalia": [
+    {
+"name": "Mogadishu",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+{
+"name": "Muqdisho",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+{
+"name": "Mogadiscio",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+{
+"name": "Mogadisho",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+{
+"name": "Maqdīshū",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+{
+"name": "مقديشو",
+"latitude": 2.03711,
+"longitude": 45.34375,
+"canonical": "Mogadishu"
+},
+
+{
+  "name": "Hargeisa",
+  "latitude": 9.56,
+  "longitude": 44.06,
+  "canonical": "Hargeisa"
+},
+{
+  "name": "Hargeysa",
+  "latitude": 9.56,
+  "longitude": 44.06,
+  "canonical": "Hargeisa"
+},
+{
+  "name": "Hargaysa",
+  "latitude": 9.56,
+  "longitude": 44.06,
+  "canonical": "Hargeisa"
+},
+{
+  "name": "Hergiesa",
+  "latitude": 9.56,
+  "longitude": 44.06,
+  "canonical": "Hargeisa"
+},
+{
+  "name": "هرجيسا",
+  "latitude": 9.56,
+  "longitude": 44.06,
+  "canonical": "Hargeisa"
+},
+
+{
+  "name": "Sheikh",
+  "latitude": 9.99245,
+  "longitude": 45.42914,
+  "canonical": "Sheikh"
+},
+{
+  "name": "Sheekh",
+  "latitude": 9.99245,
+  "longitude": 45.42914,
+  "canonical": "Sheikh"
+},
+{
+  "name": "Shaykh",
+  "latitude": 9.99245,
+  "longitude": 45.42914,
+  "canonical": "Sheikh"
+},
+{
+  "name": "شيخ",
+  "latitude": 9.99245,
+  "longitude": 45.42914,
+  "canonical": "Sheikh"
+},
+
+{
+  "name": "Somaliland",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+{
+  "name": "Republic of Somaliland",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+{
+  "name": "State of Somaliland",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+{
+  "name": "Soomaaliland",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+{
+  "name": "صوماليلاند",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+{
+  "name": "أرض الصومال",
+  "latitude": 9,
+  "longitude": 46,
+  "canonical": "Somaliland"
+},
+
+{
+  "name": "Baidoa",
+  "latitude": 3.11383,
+  "longitude": 43.6498,
+  "canonical": "Baidoa"
+},
+{
+  "name": "Baydhabo",
+  "latitude": 3.11383,
+  "longitude": 43.6498,
+  "canonical": "Baidoa"
+},
+{
+  "name": "Baydabo",
+  "latitude": 3.11383,
+  "longitude": 43.6498,
+  "canonical": "Baidoa"
+},
+{
+  "name": "Baïdoa",
+  "latitude": 3.11383,
+  "longitude": 43.6498,
+  "canonical": "Baidoa"
+},
+{
+  "name": "بيدوا",
+  "latitude": 3.11383,
+  "longitude": 43.6498,
+  "canonical": "Baidoa"
+},
+
+{
+  "name": "Garowe",
+  "latitude": 8.408416,
+  "longitude": 48.483724,
+  "canonical": "Garowe"
+},
+{
+  "name": "Garoowe",
+  "latitude": 8.408416,
+  "longitude": 48.483724,
+  "canonical": "Garowe"
+},
+{
+  "name": "Garoe",
+  "latitude": 8.408416,
+  "longitude": 48.483724,
+  "canonical": "Garowe"
+},
+{
+  "name": "غروي",
+  "latitude": 8.408416,
+  "longitude": 48.483724,
+  "canonical": "Garowe"
+},
+
+{
+  "name": "Hon",
+  "latitude": 8.6,
+  "longitude": 48.88333,
+  "canonical": "Hon"
+},
+{
+  "name": "Hoon",
+  "latitude": 8.6,
+  "longitude": 48.88333,
+  "canonical": "Hon"
+},
+{
+  "name": "Xon",
+  "latitude": 8.6,
+  "longitude": 48.88333,
+  "canonical": "Hon"
+},
+{
+  "name": "هون",
+  "latitude": 8.6,
+  "longitude": 48.88333,
+  "canonical": "Hon"
+},
+
+{
+  "name": "Puntland",
+  "latitude": 9,
+  "longitude": 49,
+  "canonical": "Puntland"
+},
+{
+  "name": "Puntland State of Somalia",
+  "latitude": 9,
+  "longitude": 49,
+  "canonical": "Puntland"
+},
+{
+  "name": "Puntland State",
+  "latitude": 9,
+  "longitude": 49,
+  "canonical": "Puntland"
+},
+{
+  "name": "بونتلاند",
+  "latitude": 9,
+  "longitude": 49,
+  "canonical": "Puntland"
+},
+
+{
+  "name": "Bay",
+  "latitude": 3.16667,
+  "longitude": 43.5,
+  "canonical": "Bay"
+},
+{
+  "name": "Baay",
+  "latitude": 3.16667,
+  "longitude": 43.5,
+  "canonical": "Bay"
+},
+{
+  "name": "Bay Region",
+  "latitude": 3.16667,
+  "longitude": 43.5,
+  "canonical": "Bay"
+},
+{
+  "name": "إقليم باي",
+  "latitude": 3.16667,
+  "longitude": 43.5,
+  "canonical": "Bay"
+},
+
+{
+  "name": "Kismayo",
+  "latitude": -0.35817,
+  "longitude": 42.54536,
+  "canonical": "Kismayo"
+},
+{
+  "name": "Kismaayo",
+  "latitude": -0.35817,
+  "longitude": 42.54536,
+  "canonical": "Kismayo"
+},
+{
+  "name": "Kismayu",
+  "latitude": -0.35817,
+  "longitude": 42.54536,
+  "canonical": "Kismayo"
+},
+{
+  "name": "Chisimaio",
+  "latitude": -0.35817,
+  "longitude": 42.54536,
+  "canonical": "Kismayo"
+},
+{
+  "name": "كيسمايو",
+  "latitude": -0.35817,
+  "longitude": 42.54536,
+  "canonical": "Kismayo"
+},
+
+{
+  "name": "Galmudug",
+  "latitude": 6,
+  "longitude": 48,
+  "canonical": "Galmudug"
+},
+{
+  "name": "GalMudug",
+  "latitude": 6,
+  "longitude": 48,
+  "canonical": "Galmudug"
+},
+{
+  "name": "Galmuduug",
+  "latitude": 6,
+  "longitude": 48,
+  "canonical": "Galmudug"
+},
+{
+  "name": "Gal Mudug",
+  "latitude": 6,
+  "longitude": 48,
+  "canonical": "Galmudug"
+},
+{
+  "name": "غلمدغ",
+  "latitude": 6,
+  "longitude": 48,
+  "canonical": "Galmudug"
+},
+
+{
+  "name": "Jawhar",
+  "latitude": 2.767,
+  "longitude": 45.516,
+  "canonical": "Jawhar"
+},
+{
+  "name": "Jowhar",
+  "latitude": 2.767,
+  "longitude": 45.516,
+  "canonical": "Jawhar"
+},
+{
+  "name": "Giohar",
+  "latitude": 2.767,
+  "longitude": 45.516,
+  "canonical": "Jawhar"
+},
+{
+  "name": "جوهر",
+  "latitude": 2.767,
+  "longitude": 45.516,
+  "canonical": "Jawhar"
+},
+{
+  "name": "Bosaso",
+  "latitude": 11.28421,
+  "longitude": 49.18158,
+  "canonical": "Bosaso"
+},
+{
+  "name": "بوصاصو",
+  "latitude": 11.28421,
+  "longitude": 49.18158,
+  "canonical": "Bosaso"
+},
+
+{
+  "name": "Mudug",
+  "latitude": 5,
+  "longitude": 47,
+  "canonical": "Mudug"
+},
+{
+  "name": "Mudug Region",
+  "latitude": 5,
+  "longitude": 47,
+  "canonical": "Mudug"
+},
+{
+  "name": "Gobolka Mudug",
+  "latitude": 5,
+  "longitude": 47,
+  "canonical": "Mudug"
+},
+{
+  "name": "إقليم مودوغ",
+  "latitude": 5,
+  "longitude": 47,
+  "canonical": "Mudug"
+},
+{
+  "name": "مودوغ",
+  "latitude": 5,
+  "longitude": 47,
+  "canonical": "Mudug"
+}
+  ],
+  "Sudan": [
+    {
+"name": "Khartoum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Khartum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Al Khartum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Al-Khartum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Al Khartoum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Al-Khartoum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "El Khartum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "El Khartoum",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Kharṭūm",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "Al Kharṭūm",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+{
+"name": "الخرطوم",
+"latitude": 15.51026,
+"longitude": 32.54253,
+"canonical": "Khartoum"
+},
+
+{
+  "name": "Tour",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+{
+  "name": "Toor",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+{
+  "name": "Tūr",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+{
+  "name": "Tur",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+{
+  "name": "Tawr",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+{
+  "name": "تور",
+  "latitude": 12.79814,
+  "longitude": 22.75489,
+  "canonical": "Tour"
+},
+
+{
+  "name": "Juba",
+  "latitude": 12.15,
+  "longitude": 24.45,
+  "canonical": "Juba"
+},
+{
+  "name": "Jūbā",
+  "latitude": 12.15,
+  "longitude": 24.45,
+  "canonical": "Juba"
+},
+{
+  "name": "Djouba",
+  "latitude": 12.15,
+  "longitude": 24.45,
+  "canonical": "Juba"
+},
+{
+  "name": "Jouba",
+  "latitude": 12.15,
+  "longitude": 24.45,
+  "canonical": "Juba"
+},
+{
+  "name": "جوبا",
+  "latitude": 12.15,
+  "longitude": 24.45,
+  "canonical": "Juba"
+},
+
+{
+  "name": "Red Sea",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "Red Sea State",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "Al Bahr Al Ahmar",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "Al-Baḥr al-Aḥmar",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "البحر الأحمر",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "ولاية البحر الأحمر",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+{
+  "name": "Mer Rouge",
+  "latitude": 19.96667,
+  "longitude": 35.66667,
+  "canonical": "Red Sea"
+},
+
+{
+  "name": "Al Qadarif State",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Al Qadarif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Al-Qadarif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "El Qadarif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Gedaref",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Gedarif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Gadarif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Qaḍārif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "Al Qaḍārif",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "القضارف",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+{
+  "name": "ولاية القضارف",
+  "latitude": 14.05,
+  "longitude": 35.35,
+  "canonical": "Al Qadarif State"
+},
+
+{
+  "name": "For",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+},
+{
+  "name": "Fur",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+},
+{
+  "name": "Fūr",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+},
+{
+  "name": "Foor",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+},
+{
+  "name": "Fōr",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+},
+{
+  "name": "فور",
+  "latitude": 10.95,
+  "longitude": 34.71667,
+  "canonical": "For"
+}
+  ],
+  "Syria": [
+   {
+"name": "As Susah",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "As-Susah",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "as-Susah",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "As Susa",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "As-Sūsah",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "Al Susah",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+{
+"name": "السوسة",
+"latitude": 34.53366,
+"longitude": 40.95819,
+"canonical": "As Susah"
+},
+
+{
+  "name": "Damascus",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "Dimashq",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "Madīnat Dimashq",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "Damas",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "Şam",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "دمشق",
+  "latitude": 33.51667,
+  "longitude": 36.28333,
+  "canonical": "Damascus"
+},
+{
+  "name": "Aleppo",
+  "latitude":36.20996,
+  "longitude":37.15279,
+  "canonical": "Aleppo"
+},
+{
+  "name": "Halab",
+  "latitude":36.20996,
+  "longitude":37.15279,
+  "canonical": "Aleppo"
+},
+{
+  "name": "حلب",
+  "latitude":36.20996,
+  "longitude":37.15279,
+  "canonical": "Aleppo"
+},
+{
+  "name": "Daraa",
+  "latitude":32.61889,
+  "longitude":36.10213,
+  "canonical": "Daraa"
+},
+{
+  "name": "Dar'a",
+  "latitude":32.61889,
+  "longitude":36.10213,
+  "canonical": "Daraa"
+},
+{
+  "name": "Dar‘ā",
+  "latitude":32.61889,
+  "longitude":36.10213,
+  "canonical": "Daraa"
+},
+{
+  "name": "Der'a",
+  "latitude":32.61889,
+  "longitude":36.10213,
+  "canonical": "Daraa"
+},
+{
+  "name": "درعا",
+  "latitude":32.61889,
+  "longitude":36.10213,
+  "canonical": "Daraa"
+},
+{
+  "name": "Idlib",
+  "latitude": 35.93062,
+  "longitude": 36.63393,
+  "canonical": "Idlib"
+},
+{
+  "name": "Idleb",
+  "latitude": 35.93062,
+  "longitude": 36.63393,
+  "canonical": "Idlib"
+},
+{
+  "name": "Edlib",
+  "latitude": 35.93062,
+  "longitude": 36.63393,
+  "canonical": "Idlib"
+},
+{
+  "name": "إدلب",
+  "latitude": 35.93062,
+  "longitude": 36.63393,
+  "canonical": "Idlib"
+},
+
+{
+  "name": "Al Hasakah",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+{
+  "name": "Al-Hasakah",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+{
+  "name": "Hasaka",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+{
+  "name": "Hassakeh",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+{
+  "name": "Al-Ḥasakah",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+{
+  "name": "الحسكة",
+  "latitude":36.50237,
+  "longitude":40.74772,
+  "canonical": "Al Hasakah"
+},
+
+{
+  "name": "Hamah",
+  "latitude":35.13179,
+  "longitude":36.75783,
+  "canonical": "Hamah"
+},
+{
+  "name": "Hama",
+  "latitude":35.13179,
+  "longitude":36.75783,
+  "canonical": "Hamah"
+},
+{
+  "name": "Ḥamāh",
+  "latitude":35.13179,
+  "longitude":36.75783,
+  "canonical": "Hamah"
+},
+{
+  "name": "Ḥamā",
+  "latitude":35.13179,
+  "longitude":36.75783,
+  "canonical": "Hamah"
+},
+{
+  "name": "حماة",
+  "latitude":35.13179,
+  "longitude":36.75783,
+  "canonical": "Hamah"
+}
+  ],
+  "Tunisia": [
+{
+"name": "Tunis City",
+"latitude": 36.81897,
+"longitude": 10.16579,
+"canonical": "Tunis"
+},
+{
+"name": "Tunis Ville",
+"latitude": 36.81897,
+"longitude": 10.16579,
+"canonical": "Tunis"
+},
+{
+  "name": "Ben Arous",
+  "latitude": 36.75452,
+  "longitude": 10.22167,
+  "canonical": "Ben Arous"
+},
+{
+  "name": "Bin ʿArūs",
+  "latitude": 36.75452,
+  "longitude": 10.22167,
+  "canonical": "Ben Arous"
+},
+{
+  "name": "Ben Arous Governorate",
+  "latitude": 36.75452,
+  "longitude": 10.22167,
+  "canonical": "Ben Arous"
+},
+{
+  "name": "بن عروس",
+  "latitude": 36.75452,
+  "longitude": 10.22167,
+  "canonical": "Ben Arous"
+},
+
+{
+  "name": "Ariana",
+  "latitude": 36.85956,
+  "longitude": 10.19724,
+  "canonical": "Ariana"
+},
+{
+  "name": "Aryana",
+  "latitude": 36.85956,
+  "longitude": 10.19724,
+  "canonical": "Ariana"
+},
+{
+  "name": "Aryanah",
+  "latitude": 36.85956,
+  "longitude": 10.19724,
+  "canonical": "Ariana"
+},
+{
+  "name": "أريانة",
+  "latitude": 36.85956,
+  "longitude": 10.19724,
+  "canonical": "Ariana"
+},
+
+{
+  "name": "Sousse",
+  "latitude": 35.82539,
+  "longitude": 10.63699,
+  "canonical": "Sousse"
+},
+{
+  "name": "Sūsah",
+  "latitude": 35.82539,
+  "longitude": 10.63699,
+  "canonical": "Sousse"
+},
+{
+  "name": "Susa",
+  "latitude": 35.82539,
+  "longitude": 10.63699,
+  "canonical": "Sousse"
+},
+{
+  "name": "Soussa",
+  "latitude": 35.82539,
+  "longitude": 10.63699,
+  "canonical": "Sousse"
+},
+{
+  "name": "سوسة",
+  "latitude": 35.82539,
+  "longitude": 10.63699,
+  "canonical": "Sousse"
+},
+
+{
+  "name": "Sfax",
+  "latitude": 34.74056,
+  "longitude": 10.76028,
+  "canonical": "Sfax"
+},
+{
+  "name": "Safaqis",
+  "latitude": 34.74056,
+  "longitude": 10.76028,
+  "canonical": "Sfax"
+},
+{
+  "name": "Ṣafāqis",
+  "latitude": 34.74056,
+  "longitude": 10.76028,
+  "canonical": "Sfax"
+},
+{
+  "name": "صفاقس",
+  "latitude": 34.74056,
+  "longitude": 10.76028,
+  "canonical": "Sfax"
+},
+
+{
+  "name": "Ariana Ville",
+  "latitude": 36.86542,
+  "longitude": 10.16846,
+  "canonical": "Ariana Ville"
+},
+{
+  "name": "Ville d'Ariana",
+  "latitude": 36.86542,
+  "longitude": 10.16846,
+  "canonical": "Ariana Ville"
+},
+{
+  "name": "Ariana City",
+  "latitude": 36.86542,
+  "longitude": 10.16846,
+  "canonical": "Ariana Ville"
+},
+{
+  "name": "أريانة المدينة",
+  "latitude": 36.86542,
+  "longitude": 10.16846,
+  "canonical": "Ariana Ville"
+},
+
+{
+  "name": "Nabeul",
+  "latitude": 36.45606,
+  "longitude": 10.73763,
+  "canonical": "Nabeul"
+},
+{
+  "name": "Nabul",
+  "latitude": 36.45606,
+  "longitude": 10.73763,
+  "canonical": "Nabeul"
+},
+{
+  "name": "Nābul",
+  "latitude": 36.45606,
+  "longitude": 10.73763,
+  "canonical": "Nabeul"
+},
+{
+  "name": "نابل",
+  "latitude": 36.45606,
+  "longitude": 10.73763,
+  "canonical": "Nabeul"
+},
+
+{
+  "name": "La Marsa",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+{
+  "name": "El Marsa",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+{
+  "name": "Al Marsa",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+{
+  "name": "Al-Marsā",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+{
+  "name": "Marsa",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+{
+  "name": "المرسى",
+  "latitude": 36.89544,
+  "longitude": 10.30294,
+  "canonical": "La Marsa"
+},
+
+{
+  "name": "Monastir",
+  "latitude": 35.77799,
+  "longitude": 10.82617,
+  "canonical": "Monastir"
+},
+{
+  "name": "Al Munastir",
+  "latitude": 35.77799,
+  "longitude": 10.82617,
+  "canonical": "Monastir"
+},
+{
+  "name": "Al-Munastīr",
+  "latitude": 35.77799,
+  "longitude": 10.82617,
+  "canonical": "Monastir"
+},
+{
+  "name": "المنستير",
+  "latitude": 35.77799,
+  "longitude": 10.82617,
+  "canonical": "Monastir"
+},
+
+{
+  "name": "Cite El Khadra",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+{
+  "name": "Cité El Khadra",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+{
+  "name": "El Khadra",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+{
+  "name": "Hay El Khadra",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+{
+  "name": "Ḥayy al-Khaḍrāʾ",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+{
+  "name": "حي الخضراء",
+  "latitude": 36.84022,
+  "longitude": 10.20718,
+  "canonical": "Cite El Khadra"
+},
+
+{
+  "name": "Sukrah",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+{
+  "name": "La Soukra",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+{
+  "name": "Soukra",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+{
+  "name": "As Sukrah",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+{
+  "name": "As-Sukrah",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+{
+  "name": "سكرة",
+  "latitude": 36.87744,
+  "longitude": 10.2468,
+  "canonical": "Sukrah"
+},
+
+{
+  "name": "Zaghouan",
+  "latitude": 36.40291,
+  "longitude": 10.14292,
+  "canonical": "Zaghouan"
+},
+{
+  "name": "Zaghwan",
+  "latitude": 36.40291,
+  "longitude": 10.14292,
+  "canonical": "Zaghouan"
+},
+{
+  "name": "Zaghwān",
+  "latitude": 36.40291,
+  "longitude": 10.14292,
+  "canonical": "Zaghouan"
+},
+{
+  "name": "زغوان",
+  "latitude": 36.40291,
+  "longitude": 10.14292,
+  "canonical": "Zaghouan"
+},
+
+{
+  "name": "Beja",
+  "latitude": 36.72564,
+  "longitude": 9.18169,
+  "canonical": "Beja"
+},
+{
+  "name": "Béja",
+  "latitude": 36.72564,
+  "longitude": 9.18169,
+  "canonical": "Beja"
+},
+{
+  "name": "Bajah",
+  "latitude": 36.72564,
+  "longitude": 9.18169,
+  "canonical": "Beja"
+},
+{
+  "name": "Bāja",
+  "latitude": 36.72564,
+  "longitude": 9.18169,
+  "canonical": "Beja"
+},
+{
+  "name": "باجة",
+  "latitude": 36.72564,
+  "longitude": 9.18169,
+  "canonical": "Beja"
+},
+
+{
+  "name": "El Menzah",
+  "latitude": 36.84015,
+  "longitude": 10.17767,
+  "canonical": "El Menzah"
+},
+{
+  "name": "El Manzah",
+  "latitude": 36.84015,
+  "longitude": 10.17767,
+  "canonical": "El Menzah"
+},
+{
+  "name": "Al Manzah",
+  "latitude": 36.84015,
+  "longitude": 10.17767,
+  "canonical": "El Menzah"
+},
+{
+  "name": "المنزه",
+  "latitude": 36.84015,
+  "longitude": 10.17767,
+  "canonical": "El Menzah"
+},
+
+{
+  "name": "Sidi Bouzid",
+  "latitude": 35.03644,
+  "longitude": 9.47363,
+  "canonical": "Sidi Bouzid"
+},
+{
+  "name": "Sīdī Bū Zīd",
+  "latitude": 35.03644,
+  "longitude": 9.47363,
+  "canonical": "Sidi Bouzid"
+},
+{
+  "name": "Sidi Bou Zid",
+  "latitude": 35.03644,
+  "longitude": 9.47363,
+  "canonical": "Sidi Bouzid"
+},
+{
+  "name": "سيدي بوزيد",
+  "latitude": 35.03644,
+  "longitude": 9.47363,
+  "canonical": "Sidi Bouzid"
+}
+  ],
+  "United Arab Emirates": [
+    {
+"name": "Dubai",
+"latitude": 25,
+"longitude": 55.33333,
+"canonical": "Dubai"
+},
+{
+"name": "Dubayy",
+"latitude": 25,
+"longitude": 55.33333,
+"canonical": "Dubai"
+},
+{
+"name": "Dubay",
+"latitude": 25,
+"longitude": 55.33333,
+"canonical": "Dubai"
+},
+{
+"name": "Dubai City",
+"latitude": 25,
+"longitude": 55.33333,
+"canonical": "Dubai"
+},
+{
+"name": "دبي",
+"latitude": 25,
+"longitude": 55.33333,
+"canonical": "Dubai"
+},
+
+{
+  "name": "Abu Dhabi",
+  "latitude": 24.45118,
+  "longitude": 54.39696,
+  "canonical": "Abu Dhabi"
+},
+{
+  "name": "Abu Dhabi City",
+  "latitude": 24.45118,
+  "longitude": 54.39696,
+  "canonical": "Abu Dhabi"
+},
+{
+  "name": "Abu Zaby",
+  "latitude": 24.45118,
+  "longitude": 54.39696,
+  "canonical": "Abu Dhabi"
+},
+{
+  "name": "Abū Ẓaby",
+  "latitude": 24.45118,
+  "longitude": 54.39696,
+  "canonical": "Abu Dhabi"
+},
+{
+  "name": "أبو ظبي",
+  "latitude": 24.45118,
+  "longitude": 54.39696,
+  "canonical": "Abu Dhabi"
+},
+
+{
+  "name": "Sharjah",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+{
+  "name": "Ash Shariqah",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+{
+  "name": "Ash-Shariqah",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+{
+  "name": "Ash-Shāriqah",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+{
+  "name": "Shariqa",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+{
+  "name": "الشارقة",
+  "latitude": 25.33737,
+  "longitude": 55.41206,
+  "canonical": "Sharjah"
+},
+
+{
+  "name": "Ras Al Khaimah",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "Ras al Khaimah",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "Ras al-Khaimah",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "Ra's al Khaimah",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "Rās al-Khaymah",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "RAK",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+{
+  "name": "رأس الخيمة",
+  "latitude": 25.46116,
+  "longitude": 56.04058,
+  "canonical": "Ras Al Khaimah"
+},
+
+{
+  "name": "Ajman",
+  "latitude": 25.40177,
+  "longitude": 55.47878,
+  "canonical": "Ajman"
+},
+{
+  "name": "Ajmān",
+  "latitude": 25.40177,
+  "longitude": 55.47878,
+  "canonical": "Ajman"
+},
+{
+  "name": "Ajmaan",
+  "latitude": 25.40177,
+  "longitude": 55.47878,
+  "canonical": "Ajman"
+},
+{
+  "name": "عجمان",
+  "latitude": 25.40177,
+  "longitude": 55.47878,
+  "canonical": "Ajman"
+},
+
+{
+  "name": "Al Ain",
+  "latitude": 24.19167,
+  "longitude": 55.76056,
+  "canonical": "Al Ain"
+},
+{
+  "name": "Al-ʿAin",
+  "latitude": 24.19167,
+  "longitude": 55.76056,
+  "canonical": "Al Ain"
+},
+{
+  "name": "Al Ayn",
+  "latitude": 24.19167,
+  "longitude": 55.76056,
+  "canonical": "Al Ain"
+},
+{
+  "name": "Ain",
+  "latitude": 24.19167,
+  "longitude": 55.76056,
+  "canonical": "Al Ain"
+},
+{
+  "name": "العين",
+  "latitude": 24.19167,
+  "longitude": 55.76056,
+  "canonical": "Al Ain"
+},
+
+{
+  "name": "Al Fujairah",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+{
+  "name": "Fujairah",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+{
+  "name": "Al-Fujairah",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+{
+  "name": "Al Fujayrah",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+{
+  "name": "Al-Fujayrah",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+{
+  "name": "الفجيرة",
+  "latitude": 25.11641,
+  "longitude": 56.34141,
+  "canonical": "Al Fujairah"
+},
+
+{
+  "name": "Shayratawn",
+  "latitude": 24.50076,
+  "longitude": 54.36839,
+  "canonical": "Shayratawn"
+},
+{
+  "name": "Shairatawn",
+  "latitude": 24.50076,
+  "longitude": 54.36839,
+  "canonical": "Shayratawn"
+},
+{
+  "name": "Shayratown",
+  "latitude": 24.50076,
+  "longitude": 54.36839,
+  "canonical": "Shayratawn"
+},
+{
+  "name": "شيراتاوان",
+  "latitude": 24.50076,
+  "longitude": 54.36839,
+  "canonical": "Shayratawn"
+},
+
+{
+  "name": "Dibba Al-Fujairah",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+{
+  "name": "Dibba Al Fujairah",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+{
+  "name": "Dibba al-Fujairah",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+{
+  "name": "Dibba Al-Fujayrah",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+{
+  "name": "Dibba",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+{
+  "name": "دبا الفجيرة",
+  "latitude": 25.59246,
+  "longitude": 56.26176,
+  "canonical": "Dibba Al-Fujairah"
+},
+
+{
+  "name": "Umm Al Quwain",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "Umm al-Quwain",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "Umm Al-Quwain",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "Umm al-Quwayn",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "Umm Al Quwayn",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "Umm al-Qaiwain",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+{
+  "name": "أم القيوين",
+  "latitude": 25.56473,
+  "longitude": 55.55517,
+  "canonical": "Umm Al Quwain"
+},
+
+{
+  "name": "Jebel Ali",
+  "latitude": 24.98754,
+  "longitude": 55.02194,
+  "canonical": "Jebel Ali"
+},
+{
+  "name": "Jabal Ali",
+  "latitude": 24.98754,
+  "longitude": 55.02194,
+  "canonical": "Jebel Ali"
+},
+{
+  "name": "Jabal ʿAlī",
+  "latitude": 24.98754,
+  "longitude": 55.02194,
+  "canonical": "Jebel Ali"
+},
+{
+  "name": "Jebel ʿAlī",
+  "latitude": 24.98754,
+  "longitude": 55.02194,
+  "canonical": "Jebel Ali"
+},
+{
+  "name": "جبل علي",
+  "latitude": 24.98754,
+  "longitude": 55.02194,
+  "canonical": "Jebel Ali"
+},
+
+{
+  "name": "Tarif",
+  "latitude": 24.03072,
+  "longitude": 53.71555,
+  "canonical": "Tarif"
+},
+{
+  "name": "At Tarif",
+  "latitude": 24.03072,
+  "longitude": 53.71555,
+  "canonical": "Tarif"
+},
+{
+  "name": "Aṭ-Ṭarīf",
+  "latitude": 24.03072,
+  "longitude": 53.71555,
+  "canonical": "Tarif"
+},
+{
+  "name": "الطريف",
+  "latitude": 24.03072,
+  "longitude": 53.71555,
+  "canonical": "Tarif"
+},
+
+{
+  "name": "Business Bay",
+  "latitude": 25.18316,
+  "longitude": 55.27074,
+  "canonical": "Business Bay"
+},
+{
+  "name": "Dubai Business Bay",
+  "latitude": 25.18316,
+  "longitude": 55.27074,
+  "canonical": "Business Bay"
+},
+{
+  "name": "Al Khaleej Al Tijari",
+  "latitude": 25.18316,
+  "longitude": 55.27074,
+  "canonical": "Business Bay"
+},
+{
+  "name": "الخليج التجاري",
+  "latitude": 25.18316,
+  "longitude": 55.27074,
+  "canonical": "Business Bay"
+},
+
+{
+  "name": "Dayrah",
+  "latitude": 25.27143,
+  "longitude": 55.30207,
+  "canonical": "Dayrah"
+},
+{
+  "name": "Deira",
+  "latitude": 25.27143,
+  "longitude": 55.30207,
+  "canonical": "Dayrah"
+},
+{
+  "name": "Deyra",
+  "latitude": 25.27143,
+  "longitude": 55.30207,
+  "canonical": "Dayrah"
+},
+{
+  "name": "Dayra",
+  "latitude": 25.27143,
+  "longitude": 55.30207,
+  "canonical": "Dayrah"
+},
+{
+  "name": "ديرة",
+  "latitude": 25.27143,
+  "longitude": 55.30207,
+  "canonical": "Dayrah"
+}
+  ],
+  "Yemen": [
+    {
+"name": "Sanaa",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+{
+"name": "Sana'a",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+{
+"name": "Sana",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+{
+"name": "Ṣanʿāʾ",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+{
+"name": "SanAA",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+{
+"name": "صنعاء",
+"latitude": 15.35452,
+"longitude": 44.20646,
+"canonical": "Sanaa"
+},
+
+{
+  "name": "Adan",
+  "latitude": 12.77944,
+"longitude": 45.03667,
+  "canonical": "Adan"
+},
+{
+  "name": "Aden",
+  "latitude": 12.77944,
+  "longitude": 45.03667,
+  "canonical": "Adan"
+},
+{
+  "name": "عدن",
+  "latitude": 12.77944,
+  "longitude": 45.03667,
+  "canonical": "Adan"
+},
+{
+  "name": "Al Kharimah",
+  "latitude": 17.15789,
+  "longitude": 43.29392,
+  "canonical": "Al Kharimah"
+},
+{
+  "name": "Al-Kharimah",
+  "latitude": 17.15789,
+  "longitude": 43.29392,
+  "canonical": "Al Kharimah"
+},
+{
+  "name": "Al Kharīmah",
+  "latitude": 17.15789,
+  "longitude": 43.29392,
+  "canonical": "Al Kharimah"
+},
+{
+  "name": "Al Kharemah",
+  "latitude": 17.15789,
+  "longitude": 43.29392,
+  "canonical": "Al Kharimah"
+},
+{
+  "name": "الخريمة",
+  "latitude": 17.15789,
+  "longitude": 43.29392,
+  "canonical": "Al Kharimah"
+},
+
+{
+  "name": "Al Muwayh",
+  "latitude": 14.17734,
+  "longitude": 44.00382,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al-Muwayh",
+  "latitude": 14.17734,
+  "longitude": 44.00382,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al Muwaih",
+  "latitude": 14.17734,
+  "longitude": 44.00382,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "Al Muweh",
+  "latitude": 14.17734,
+  "longitude": 44.00382,
+  "canonical": "Al Muwayh"
+},
+{
+  "name": "المويه",
+  "latitude": 14.17734,
+  "longitude": 44.00382,
+  "canonical": "Al Muwayh"
+},
+
+{
+  "name": "Darb al Fukrayd",
+  "latitude": 16.72638,
+  "longitude": 43.43311,
+  "canonical": "Darb al Fukrayd"
+},
+{
+  "name": "Darb al-Fukrayd",
+  "latitude": 16.72638,
+  "longitude": 43.43311,
+  "canonical": "Darb al Fukrayd"
+},
+{
+  "name": "Darbal Fukrayd",
+  "latitude": 16.72638,
+  "longitude": 43.43311,
+  "canonical": "Darb al Fukrayd"
+},
+{
+  "name": "Darb al-Fukrīd",
+  "latitude": 16.72638,
+  "longitude": 43.43311,
+  "canonical": "Darb al Fukrayd"
+},
+{
+  "name": "درب الفكريد",
+  "latitude": 16.72638,
+  "longitude": 43.43311,
+  "canonical": "Darb al Fukrayd"
+},
+
+{
+  "name": "Taiz",
+  "latitude": 13.57952,
+  "longitude": 44.02091,
+  "canonical": "Taiz"
+},
+{
+  "name": "Ta'izz",
+  "latitude": 13.57952,
+  "longitude": 44.02091,
+  "canonical": "Taiz"
+},
+{
+  "name": "Ta'iz",
+  "latitude": 13.57952,
+  "longitude": 44.02091,
+  "canonical": "Taiz"
+},
+{
+  "name": "Taez",
+  "latitude": 13.57952,
+  "longitude": 44.02091,
+  "canonical": "Taiz"
+},
+{
+  "name": "تعز",
+  "latitude": 13.57952,
+  "longitude": 44.02091,
+  "canonical": "Taiz"
+},
+
+{
+  "name": "Al Hudaydah",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+{
+  "name": "Al-Hudaydah",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+{
+  "name": "Hodeidah",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+{
+  "name": "Al Hudaidah",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+{
+  "name": "Al Ḥudaydah",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+{
+  "name": "الحديدة",
+  "latitude": 13.53292,
+  "longitude": 44.38479,
+  "canonical": "Al Hudaydah"
+},
+
+{
+  "name": "Haram",
+  "latitude": 14.02563,
+  "longitude": 44.17723,
+  "canonical": "Haram"
+},
+{
+  "name": "Harām",
+  "latitude": 14.02563,
+  "longitude": 44.17723,
+  "canonical": "Haram"
+},
+{
+  "name": "Al Haram",
+  "latitude": 14.02563,
+  "longitude": 44.17723,
+  "canonical": "Haram"
+},
+{
+  "name": "حرم",
+  "latitude": 14.02563,
+  "longitude": 44.17723,
+  "canonical": "Haram"
+},
+
+{
+  "name": "Samarah",
+  "latitude": 14.92763,
+  "longitude": 44.15104,
+  "canonical": "Samarah"
+},
+{
+  "name": "Samara",
+  "latitude": 14.92763,
+  "longitude": 44.15104,
+  "canonical": "Samarah"
+},
+{
+  "name": "Samārah",
+  "latitude": 14.92763,
+  "longitude": 44.15104,
+  "canonical": "Samarah"
+},
+{
+  "name": "سمارة",
+  "latitude": 14.92763,
+  "longitude": 44.15104,
+  "canonical": "Samarah"
+},
+{
+  "name": "Ma'rib",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+},
+{
+  "name": "Marib",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+},
+{
+  "name": "Ma’rib",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+},
+{
+  "name": "Ma rib",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+},
+{
+  "name": "Mareb",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+},
+{
+  "name": "مأرب",
+  "latitude": 15.4591,
+  "longitude": 45.32534,
+  "canonical": "Ma'rib"
+}
+  ]
+}
