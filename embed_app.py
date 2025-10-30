@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
+from pydeck.settings import settings as pdk_settings
 
 # ------------------------------
 # Minimal page chrome
@@ -31,6 +32,25 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+# ------------------------------
+# CONFIGURATION: Default bubble radius values
+# ------------------------------
+DEFAULT_GLOBAL_MIN_RADIUS = 800
+DEFAULT_GLOBAL_MAX_RADIUS = 7000
+DEFAULT_COUNTRY_MIN_RADIUS = 800
+DEFAULT_COUNTRY_MAX_RADIUS = 7000
+
+# ------------------------------
+# CONFIGURATION: Cities to always show labels for
+# ------------------------------
+# Static list of cities to always label (country_normalized, city_normalized)
+ALWAYS_LABEL_CITIES_STATIC = {
+    # ("Lebanon", "Bekaa"),
+    # ("Lebanon", "Saida")
+    # Add more (country, city) tuples as needed
+}
+# Will be combined with dynamically detected top cities per country
 
 # ------------------------------
 # Helpers
@@ -149,18 +169,51 @@ def read_excel_all_sheets_from_path(path: Path) -> Dict[str, pd.DataFrame]:
     return cleaned
 
 @st.cache_data(show_spinner=False)
-def load_main_cities_with_radius(path: Path) -> Dict[str, List[Dict[str, float]]]:
+def load_main_cities_with_radius(path: Path) -> Tuple[Dict[str, List[Dict]], Dict[str, Dict[str, int]]]:
     """
-    Returns: { country: [ { "name": str, "radius_km": number }, ... ], ... }
+    Returns: 
+    - cities_map: { country: [ { "name": str, "radius_km": number, "min_bubble_radius": int, "max_bubble_radius": int }, ... ], ... }
+    - country_defaults: { country: { "default_min_bubble_radius": int, "default_max_bubble_radius": int }, ... }
     """
     if not path.exists():
-        return {}
+        return {}, {}
     text = path.read_text(encoding="utf-8-sig")
     raw = json.loads(text)
-    out: Dict[str, List[Dict[str, float]]] = {}
-    for country, items in raw.items():
-        if not isinstance(country, str) or not isinstance(items, list):
+    cities_map: Dict[str, List[Dict]] = {}
+    country_defaults: Dict[str, Dict[str, int]] = {}
+    
+    for country, data in raw.items():
+        if not isinstance(country, str):
             continue
+            
+        # Check if data is a dict with config or just a list
+        if isinstance(data, dict):
+            items = data.get("cities", [])
+            default_min = data.get("default_min_bubble_radius", DEFAULT_COUNTRY_MIN_RADIUS)
+            default_max = data.get("default_max_bubble_radius", DEFAULT_COUNTRY_MAX_RADIUS)
+            
+            try:
+                country_defaults[country] = {
+                    "default_min_bubble_radius": int(default_min),
+                    "default_max_bubble_radius": int(default_max)
+                }
+            except Exception:
+                country_defaults[country] = {
+                    "default_min_bubble_radius": DEFAULT_COUNTRY_MIN_RADIUS,
+                    "default_max_bubble_radius": DEFAULT_COUNTRY_MAX_RADIUS
+                }
+        elif isinstance(data, list):
+            items = data
+            country_defaults[country] = {
+                "default_min_bubble_radius": DEFAULT_COUNTRY_MIN_RADIUS,
+                "default_max_bubble_radius": DEFAULT_COUNTRY_MAX_RADIUS
+            }
+        else:
+            continue
+            
+        if not isinstance(items, list):
+            continue
+            
         cleaned_items = []
         seen = set()
         for it in items:
@@ -168,20 +221,31 @@ def load_main_cities_with_radius(path: Path) -> Dict[str, List[Dict[str, float]]
                 continue
             name = it.get("name")
             rad = it.get("radius_km")
+            min_bubble = it.get("min_bubble_radius", country_defaults[country]["default_min_bubble_radius"])
+            max_bubble = it.get("max_bubble_radius", country_defaults[country]["default_max_bubble_radius"])
+            
             if not isinstance(name, str):
                 continue
             try:
                 rad_val = float(rad)
+                min_bubble_val = int(min_bubble)
+                max_bubble_val = int(max_bubble)
             except Exception:
                 continue
             key = _normcase(name)
             if key in seen:
                 continue
             seen.add(key)
-            cleaned_items.append({"name": name.strip(), "radius_km": rad_val})
+            cleaned_items.append({
+                "name": name.strip(),
+                "radius_km": rad_val,
+                "min_bubble_radius": min_bubble_val,
+                "max_bubble_radius": max_bubble_val
+            })
         if cleaned_items:
-            out[country] = cleaned_items
-    return out
+            cities_map[country] = cleaned_items
+    
+    return cities_map, country_defaults
 
 # Guards
 if not EXCEL_PATH.exists():
@@ -191,7 +255,41 @@ dfs = read_excel_all_sheets_from_path(EXCEL_PATH)
 if not dfs:
     st.error("No valid sheets found in the Excel file.")
     st.stop()
-main_cities_map = load_main_cities_with_radius(CITIES_JSON_PATH)
+main_cities_map, country_defaults = load_main_cities_with_radius(CITIES_JSON_PATH)
+
+# ------------------------------
+# Build ALWAYS_LABEL_CITIES by adding top city per country
+# ------------------------------
+def get_top_cities_per_country(dfs_dict: Dict[str, pd.DataFrame]) -> Dict[Tuple[str, str], bool]:
+    """Find the city with the highest post count in each country/sheet.
+    If top city is 'nan', get the second highest city instead.
+    Returns dict with (country_norm, city_norm) as keys for unique identification."""
+    top_cities = {}
+    for sheet, df in dfs_dict.items():
+        if df.empty:
+            continue
+        city_counts = df.groupby("City", as_index=False)["count"].sum()
+        if city_counts.empty:
+            continue
+        city_counts = city_counts.sort_values("count", ascending=False)
+        for _, row in city_counts.iterrows():
+            city_name = str(row["City"]).strip()
+            if _normcase(city_name) not in {"nan", ""}:
+                top_cities[(_normcase(sheet), _normcase(city_name))] = True
+                break
+    return top_cities
+
+# Automatically detect top cities from all countries and combine with static list
+# ✅ Normalize the static pairs so membership checks work
+ALWAYS_LABEL_CITIES_STATIC_NORM = {
+    (_normcase(cn), _normcase(cty)) for (cn, cty) in ALWAYS_LABEL_CITIES_STATIC
+}
+
+# Dynamic keys are already normalized inside get_top_cities_per_country
+ALWAYS_LABEL_CITIES_DYNAMIC = get_top_cities_per_country(dfs)
+
+# Final set contains BOTH static and dynamic (all normalized)
+ALWAYS_LABEL_CITIES = ALWAYS_LABEL_CITIES_STATIC_NORM | set(ALWAYS_LABEL_CITIES_DYNAMIC.keys())
 
 # ------------------------------
 # UI (no headings): Country + City + marker-size controls
@@ -222,13 +320,34 @@ with c2:
 with c3:
     size_mode = st.radio("Bubble size scale", ["sqrt", "linear", "log"], index=0, horizontal=True, key="scale_mode")
 
-min_r, max_r = st.columns(2)
-with min_r:
-    rmin = st.slider("Min bubble radius (m)", 100, 10000, 800, key="min_r_v2")
-with max_r:
-    rmax = st.slider("Max bubble radius (m)", 1000, 30000, 7000, key="max_r_v2")
+# Determine min/max bubble radius based on selection
+if sel_country == "All":
+    # Global "All" selection
+    rmin = DEFAULT_GLOBAL_MIN_RADIUS
+    rmax = DEFAULT_GLOBAL_MAX_RADIUS
+elif sel_city == "All":
+    # Country selected, city "All" - use country defaults from JSON
+    country_config = country_defaults.get(sel_country, {})
+    rmin = country_config.get("default_min_bubble_radius", DEFAULT_COUNTRY_MIN_RADIUS)
+    rmax = country_config.get("default_max_bubble_radius", DEFAULT_COUNTRY_MAX_RADIUS)
+else:
+    # Specific city selected - get values from JSON
+    city_items = main_cities_map.get(sel_country, [])
+    city_data = next((item for item in city_items if _normcase(item["name"]) == _normcase(sel_city)), None)
+    if city_data:
+        rmin = city_data.get("min_bubble_radius", DEFAULT_COUNTRY_MIN_RADIUS)
+        rmax = city_data.get("max_bubble_radius", DEFAULT_COUNTRY_MAX_RADIUS)
+    else:
+        # Fallback to country defaults
+        country_config = country_defaults.get(sel_country, {})
+        rmin = country_config.get("default_min_bubble_radius", DEFAULT_COUNTRY_MIN_RADIUS)
+        rmax = country_config.get("default_max_bubble_radius", DEFAULT_COUNTRY_MAX_RADIUS)
+
 if rmax <= rmin:
     rmax = rmin + 1
+
+# Display current bubble radius settings (read-only)
+st.caption(f"Bubble radius range: {rmin}m - {rmax}m")
 
 # ------------------------------
 # Build dataset for map
@@ -275,11 +394,6 @@ if sel_country != "All" and sel_city != "All":
     df_base = df_base.assign(__dist_km__=dist)
     df_near = df_base[df_base["__dist_km__"] <= radius_km].copy()
 
-        # Compute distances for all rows in the selected country and filter within radius
-    dist = _haversine_km_vec(df_base["Latitude"].to_numpy(), df_base["Longitude"].to_numpy(), lat0, lon0)
-    df_base = df_base.assign(__dist_km__=dist)
-    df_near = df_base[df_base["__dist_km__"] <= radius_km].copy()
-
     # NEW: big counters above the map
     city_only_count = int(city_rows["count"].sum())
     radius_total_count = int(df_near["count"].sum())
@@ -288,7 +402,7 @@ if sel_country != "All" and sel_city != "All":
         f"""
         <div style="display:flex; gap:16px; margin: 8px 0 6px 0;">
           <div style="flex:1; background:#f5f5f7; border-radius:16px; padding:16px; text-align:center;">
-            <div style="font-size:18px; font-weight:600; color:#555;">“{disp_name}” (city only)</div>
+            <div style="font-size:18px; font-weight:600; color:#555;">"{disp_name}" (city only)</div>
             <div style="font-size:44px; font-weight:800; line-height:1; margin-top:6px;">{city_only_count:,}</div>
           </div>
           <div style="flex:1; background:#f5f5f7; border-radius:16px; padding:16px; text-align:center;">
@@ -300,9 +414,7 @@ if sel_country != "All" and sel_city != "All":
         unsafe_allow_html=True,
     )
 
-    st.caption(f"Showing posts within {int(radius_km)} km of “{disp_name}”. Center at ({lat0:.4f}, {lon0:.4f}).")
-
-    st.caption(f"Showing posts within {int(radius_km)} km of “{disp_name}”. Center at ({lat0:.4f}, {lon0:.4f}).")
+    st.caption(f'Showing posts within {int(radius_km)} km of "{disp_name}". Center at ({lat0:.4f}, {lon0:.4f}).')
 
     # Aggregate for map
     map_df = (
@@ -332,7 +444,8 @@ if sel_country != "All" and sel_city != "All":
     else:
         zoom = 4
 
-    layer = pdk.Layer(
+    # Create layers with text labels for specific cities
+    scatter_layer = pdk.Layer(
         "ScatterplotLayer",
         data=map_df,
         get_position="[lon, lat]",
@@ -342,14 +455,40 @@ if sel_country != "All" and sel_city != "All":
         opacity=0.6,
         auto_highlight=True,
     )
-    view = pdk.ViewState(latitude=lat0, longitude=lon0, zoom=zoom)
+    
+    # Filter cities that should have persistent labels
+    label_df = map_df.copy()
+    label_df["__country_norm__"] = label_df["Sheet"].apply(_normcase)
+    label_df["__city_norm__"] = label_df["City"].apply(_normcase)
+    label_df["__should_label__"] = label_df.apply(
+        lambda row: (row["__country_norm__"], row["__city_norm__"]) in ALWAYS_LABEL_CITIES,
+        axis=1
+    )
+    label_df = label_df[label_df["__should_label__"]].copy()
+    
+    text_layer = pdk.Layer(
+        "TextLayer",
+        data=label_df,
+        get_position="[lon, lat]",
+        get_text="City",
+        get_size=14,
+        get_color=[0, 0, 0, 255],
+        get_angle=0,
+        get_text_anchor="'middle'",
+        get_alignment_baseline="'bottom'",
+        background=False,
+        get_background_color=[255, 255, 255, 200],
+        background_padding=[4, 2, 4, 2],
+    )
 
-    MAP_STYLE = None
+    view = pdk.ViewState(latitude=lat0, longitude=lon0, zoom=zoom)
+    MAP_STYLE = "https://basemaps.cartocdn.com/gl/voyager-nolabels-gl-style/style.json"
+    
     st.pydeck_chart(
         pdk.Deck(
-            layers=[layer],
+            layers=[scatter_layer, text_layer],
             initial_view_state=view,
-            tooltip={"text": "{Sheet} • {City}\n{count} posts\n{distance_km} km from center"},
+            tooltip={"text": "{City}\n{count} posts\n{distance_km} km from center"},
             height=520,
             map_style=MAP_STYLE,
         ),
@@ -357,11 +496,11 @@ if sel_country != "All" and sel_city != "All":
         key="v2_map_radius",
     )
 
-    st.dataframe(
-        map_df.rename(columns={"lat": "Latitude", "lon": "Longitude"}),
-        use_container_width=True,
-        hide_index=True
-    )
+    # st.dataframe(
+    #     map_df.rename(columns={"lat": "Latitude", "lon": "Longitude"}),
+    #     use_container_width=True,
+    #     hide_index=True
+    # )
 
 else:
     # Country="All" OR City="All": standard (no radius filter) aggregation
@@ -389,7 +528,8 @@ else:
         vlon = float(map_df["lon"].mean())
         zoom = 4
 
-    layer = pdk.Layer(
+    # Create layers with text labels for specific cities
+    scatter_layer = pdk.Layer(
         "ScatterplotLayer",
         data=map_df,
         get_position="[lon, lat]",
@@ -399,23 +539,43 @@ else:
         opacity=0.6,
         auto_highlight=True,
     )
-    view = pdk.ViewState(latitude=vlat, longitude=vlon, zoom=zoom)
+    
+    # Filter cities that should have persistent labels
+    label_df = map_df.copy()
+    label_df["__country_norm__"] = label_df["Sheet"].apply(_normcase)
+    label_df["__city_norm__"] = label_df["City"].apply(_normcase)
+    label_df["__should_label__"] = label_df.apply(
+        lambda row: (row["__country_norm__"], row["__city_norm__"]) in ALWAYS_LABEL_CITIES,
+        axis=1
+    )
+    label_df = label_df[label_df["__should_label__"]].copy()
+    
+    text_layer = pdk.Layer(
+        "TextLayer",
+        data=label_df,
+        get_position="[lon, lat]",
+        get_text="City",
+        get_size=14,
+        get_color=[0, 0, 0, 255],
+        get_angle=0,
+        get_text_anchor="'middle'",
+        get_alignment_baseline="'bottom'",
+        background=False,
+        get_background_color=[255, 255, 255, 200],
+        background_padding=[4, 2, 4, 2],
+    )
 
-    MAP_STYLE = None
+    view = pdk.ViewState(latitude=vlat, longitude=vlon, zoom=zoom)
+    MAP_STYLE = "https://basemaps.cartocdn.com/gl/voyager-nolabels-gl-style/style.json"
+    
     st.pydeck_chart(
         pdk.Deck(
-            layers=[layer],
+            layers=[scatter_layer, text_layer],
             initial_view_state=view,
-            tooltip={"text": "{Sheet} • {City}\n{count} posts"},
+            tooltip={"text": "{City}\n{count} posts"},
             height=520,
             map_style=MAP_STYLE,
         ),
         use_container_width=True,
         key="v2_map_all",
     )
-
-    # st.dataframe(
-    #     map_df.rename(columns={"lat": "Latitude", "lon": "Longitude"}),
-    #     use_container_width=True,
-    #     hide_index=True
-    # )

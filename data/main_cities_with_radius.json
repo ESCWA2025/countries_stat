@@ -1,287 +1,370 @@
 {
-  "Sudan": [
-    { "name": "Khartoum", "radius_km": 25 },
-    { "name": "Tour", "radius_km": 10 },
-    { "name": "Juba", "radius_km": 25 },
-    { "name": "Red Sea", "radius_km": 80 },
-    { "name": "Al Qadarif State", "radius_km": 60 },
-    { "name": "For", "radius_km": 10 }
-  ],
-  "Oman": [
-    { "name": "Muscat", "radius_km": 20 },
-    { "name": "Salalah", "radius_km": 15 },
-    { "name": "Sohar", "radius_km": 15 },
-    { "name": "Seeb", "radius_km": 12 },
-    { "name": "Al Khawḑ", "radius_km": 8 },
-    { "name": "Buraimi", "radius_km": 10 },
-    { "name": "Al Khuwayr", "radius_km": 8 },
-    { "name": "Al Batinah", "radius_km": 40 },
-    { "name": "Ad Dakhiliyah", "radius_km": 45 },
-    { "name": "Nizwa", "radius_km": 12 },
-    { "name": "Khasab", "radius_km": 12 }
-  ],
-  "Saudi Arabia": [
-    { "name": "Riyadh", "radius_km": 35 },
-    { "name": "Jeddah", "radius_km": 25 },
-    { "name": "Ad Dammam", "radius_km": 20 },
-    { "name": "Makkah", "radius_km": 20 },
-    { "name": "Jubail", "radius_km": 20 },
-    { "name": "Madinah", "radius_km": 20 },
-    { "name": "Khobar", "radius_km": 15 },
-    { "name": "Eastern Province", "radius_km": 60 },
-    { "name": "Tabuk", "radius_km": 20 },
-    { "name": "Al Qasim", "radius_km": 50 },
-    { "name": "Asir Region", "radius_km": 50 },
-    { "name": "Al Khubar", "radius_km": 15 },
-    { "name": "Dhahran", "radius_km": 12 },
-    { "name": "Al Qatif", "radius_km": 15 },
-    { "name": "Yanbu", "radius_km": 15 },
-    { "name": "Al Ahsa", "radius_km": 30 },
-    { "name": "Ta'if", "radius_km": 15 },
-    { "name": "Al Kharj", "radius_km": 20 },
-    { "name": "Ha'il", "radius_km": 20 },
-    { "name": "Tayma'", "radius_km": 15 },
-    { "name": "Bahrah", "radius_km": 10 },
-    { "name": "Al Aflaj", "radius_km": 20 },
-    { "name": "Al Muwayh", "radius_km": 15 }
-  ],
-  "Jordan": [
-    { "name": "Amman", "radius_km": 15 },
-    { "name": "Irbid", "radius_km": 12 },
-    { "name": "Aqaba", "radius_km": 10 },
-    { "name": "Zarqa", "radius_km": 12 }
-  ],
-  "Iraq": [
-    { "name": "Baghdad", "radius_km": 25 },
-    { "name": "Basrah", "radius_km": 20 },
-    { "name": "Erbil", "radius_km": 20 },
-    { "name": "Anas", "radius_km": 10 },
-    { "name": "Nineveh", "radius_km": 60 }
-  ],
-  "Djibouti": [
-    { "name": "Dale", "radius_km": 10 },
-    { "name": "Foret de Day", "radius_km": 20 },
-    { "name": "Ali Sabieh Region", "radius_km": 30 },
-    { "name": "Data", "radius_km": 10 },
-    { "name": "Tadjourah", "radius_km": 15 }
-  ],
-  "Palestine": [
-    { "name": "Ramallah", "radius_km": 10 },
-    { "name": "Al Khalil", "radius_km": 12 },
-    { "name": "Nablus", "radius_km": 12 },
-    { "name": "Jerusalem", "radius_km": 12 },
-    { "name": "Jenin", "radius_km": 10 },
-    { "name": "Gaza Strip", "radius_km": 15 },
-    { "name": "Bethlehem", "radius_km": 10 },
-    { "name": "Palestine", "radius_km": 30 },
-    { "name": "Al Muhafizah", "radius_km": 25 },
-    { "name": "Tulkarm", "radius_km": 10 },
-    { "name": "West Bank", "radius_km": 25 },
-    { "name": "Jericho", "radius_km": 10 }
-  ],
-  "Algeria": [
-    { "name": "Algier", "radius_km": 20 },
-    { "name": "Brida", "radius_km": 15 },
-    { "name": "Oran", "radius_km": 20 },
-    { "name": "Et Toual", "radius_km": 10 },
-    { "name": "Constantine", "radius_km": 18 },
-    { "name": "Abdelmoumen", "radius_km": 10 },
-    { "name": "Hassi Messaoud", "radius_km": 25 },
-    { "name": "Cheraga", "radius_km": 10 }
-  ],
-  "Kuwait": [
-    { "name": "Kuwait City", "radius_km": 12 },
-    { "name": "Al Farwaniyah", "radius_km": 10 },
-    { "name": "Hawalli", "radius_km": 10 },
-    { "name": "Al Ahmadi", "radius_km": 12 },
-    { "name": "As Salimiyah", "radius_km": 8 },
-    { "name": "Al Asimah Governorate", "radius_km": 15 },
-    { "name": "Ash Shuwaykh", "radius_km": 8 },
-    { "name": "Al Jahra", "radius_km": 12 },
-    { "name": "Bayan", "radius_km": 8 },
-    { "name": "Al Rumaythayah", "radius_km": 8 },
-    { "name": "Fahahil", "radius_km": 10 },
-    { "name": "As Salamiyah", "radius_km": 8 }
-  ],
-  "Tunisia": [
-    { "name": "Tunis", "radius_km": 15 },
-    { "name": "Ben Arous", "radius_km": 10 },
-    { "name": "Ariana", "radius_km": 10 },
-    { "name": "Sousse", "radius_km": 12 },
-    { "name": "Sfax", "radius_km": 15 },
-    { "name": "Ariana Ville", "radius_km": 8 },
-    { "name": "Nabeul", "radius_km": 12 },
-    { "name": "La Marsa", "radius_km": 8 },
-    { "name": "Monastir", "radius_km": 10 },
-    { "name": "Cite El Khadra", "radius_km": 5 },
-    { "name": "Sukrah", "radius_km": 8 },
-    { "name": "Zaghouan", "radius_km": 12 },
-    { "name": "Beja", "radius_km": 12 },
-    { "name": "El Menzah", "radius_km": 6 },
-    { "name": "Sidi Bouzid", "radius_km": 12 }
-  ],
-  "Lebanon": [
-    { "name": "Beirut", "radius_km": 10 },
-    { "name": "Mount Lebanon", "radius_km": 25 },
-    { "name": "Bekaa", "radius_km": 35 },
-    { "name": "South Lebanon", "radius_km": 25 },
-    { "name": "Saida", "radius_km": 10 },
-    { "name": "North Lebanon", "radius_km": 25 },
-    { "name": "Zahle", "radius_km": 10 },
-    { "name": "Jounieh", "radius_km": 8 },
-    { "name": "Baalbek-Hermel", "radius_km": 30 },
-    { "name": "Dbaye", "radius_km": 5 },
-    { "name": "Akkar", "radius_km": 25 },
-    { "name": "Baabda", "radius_km": 8 }
-  ],
-  "United Arab Emirates": [
-    { "name": "Dubai", "radius_km": 20 },
-    { "name": "Abu Dhabi", "radius_km": 25 },
-    { "name": "Sharjah", "radius_km": 15 },
-    { "name": "Ras Al Khaimah", "radius_km": 15 },
-    { "name": "Ajman", "radius_km": 10 },
-    { "name": "Al Ain", "radius_km": 20 },
-    { "name": "Al Fujairah", "radius_km": 15 },
-    { "name": "Shayratawn", "radius_km": 8 },
-    { "name": "Dibba Al-Fujairah", "radius_km": 10 },
-    { "name": "Umm Al Quwain", "radius_km": 10 },
-    { "name": "Jebel Ali", "radius_km": 10 },
-    { "name": "Tarif", "radius_km": 10 },
-    { "name": "Business Bay", "radius_km": 5 },
-    { "name": "Dayrah", "radius_km": 8 }
-  ],
-  "Somalia": [
-    { "name": "Mogadishu", "radius_km": 20 },
-    { "name": "Hargeisa", "radius_km": 20 },
-    { "name": "Sheikh", "radius_km": 10 },
-    { "name": "Somaliland", "radius_km": 80 },
-    { "name": "Baidoa", "radius_km": 15 },
-    { "name": "Garowe", "radius_km": 15 },
-    { "name": "Hon", "radius_km": 10 },
-    { "name": "Puntland", "radius_km": 80 },
-    { "name": "Bay", "radius_km": 60 },
-    { "name": "Kismayo", "radius_km": 15 },
-    { "name": "Galmudug", "radius_km": 80 },
-    { "name": "Jawhar", "radius_km": 12 },
-    { "name": "Bosaso", "radius_km": 15 },
-    { "name": "Mudug", "radius_km": 60 }
-  ],
-  "Syria": [
-    { "name": "As Susah", "radius_km": 10 },
-    { "name": "Damascus", "radius_km": 15 },
-    { "name": "Aleppo", "radius_km": 50 },
-    { "name": "Daraa", "radius_km": 15 },
-    { "name": "Homs", "radius_km": 20 },
-    { "name": "Latakia", "radius_km": 15 },
-    { "name": "Idlib", "radius_km": 15 },
-    { "name": "Al Hasakah", "radius_km": 20 },
-    { "name": "Hamah", "radius_km": 15 }
-  ],
-  "Yemen": [
-    { "name": "Sanaa", "radius_km": 15 },
-    { "name": "Adan", "radius_km": 50 },
-    { "name": "Al Kharimah", "radius_km": 10 },
-    { "name": "Al Muwayh", "radius_km": 10 },
-    { "name": "Darb al Fukrayd", "radius_km": 10 },
-    { "name": "Taiz", "radius_km": 15 },
-    { "name": "Al Hudaydah", "radius_km": 15 },
-    { "name": "Haram", "radius_km": 10 },
-    { "name": "Samarah", "radius_km": 10 },
-    { "name": "Ma'rib", "radius_km": 20 }
-  ],
-  "Libya": [
-    { "name": "Tripoli", "radius_km": 20 },
-    { "name": "Misratah", "radius_km": 15 },
-    { "name": "Benghazi", "radius_km": 20 },
-    { "name": "Mohamed Salah Ihi Tiouke", "radius_km": 8 },
-    { "name": "Sidi Kasar", "radius_km": 10 },
-    { "name": "Ra's al Alas", "radius_km": 10 },
-    { "name": "Al Marj", "radius_km": 15 },
-    { "name": "Zawiya", "radius_km": 12 },
-    { "name": "Zliten", "radius_km": 12 },
-    { "name": "Al Aziziyah", "radius_km": 12 },
-    { "name": "Al Mudayyinah", "radius_km": 10 },
-    { "name": "Al Khaymah", "radius_km": 10 },
-    { "name": "Ain Zara", "radius_km": 10 }
-  ],
-  "Morocco": [
-    { "name": "Casablanca-Settat", "radius_km": 50 },
-    { "name": "Casablanca", "radius_km": 25 },
-    { "name": "Rabat Sale Kenitra", "radius_km": 50 },
-    { "name": "Al Hoceima", "radius_km": 12 },
-    { "name": "Marrakesh-Safi", "radius_km": 50 },
-    { "name": "Tizi Ou Zemmour", "radius_km": 20 },
-    { "name": "Marrakesh", "radius_km": 20 },
-    { "name": "Rabat", "radius_km": 15 },
-    { "name": "Tangier", "radius_km": 20 },
-    { "name": "Souss-Massa", "radius_km": 50 },
-    { "name": "Fez-Meknes", "radius_km": 50 },
-    { "name": "Kenitra", "radius_km": 15 },
-    { "name": "Hay Moulay Rachid", "radius_km": 6 },
-    { "name": "Mechouar", "radius_km": 6 },
-    { "name": "Agadir", "radius_km": 15 }
-  ],
-  "Egypt": [
-    { "name": "Cairo", "radius_km": 25 },
-    { "name": "Giza", "radius_km": 20 },
-    { "name": "Alexandria", "radius_km": 25 },
-    { "name": "Al Qahirah al Jadidah", "radius_km": 15 },
-    { "name": "Maadi", "radius_km": 8 },
-    { "name": "Ash Sharqiyah", "radius_km": 50 },
-    { "name": "October", "radius_km": 15 },
-    { "name": "Heliopolis", "radius_km": 8 },
-    { "name": "Madinat an Nasr", "radius_km": 10 },
-    { "name": "Al Ashir min Ramadan", "radius_km": 15 },
-    { "name": "Al Qalyubiyah", "radius_km": 30 },
-    { "name": "Al Gharbiyah", "radius_km": 30 },
-    { "name": "Al Mansurah", "radius_km": 15 },
-    { "name": "Shobra", "radius_km": 10 }
-  ],
-  "Qatar": [
-    { "name": "Doha", "radius_km": 15 },
-    { "name": "Al Rayyan", "radius_km": 12 },
-    { "name": "Al Khawr", "radius_km": 12 },
-    { "name": "Al Wakrah", "radius_km": 10 },
-    { "name": "Dukhan", "radius_km": 10 },
-    { "name": "Al Ghuwayriyah", "radius_km": 10 },
-    { "name": "Umm Salal", "radius_km": 10 },
-    { "name": "Doha International Airport", "radius_km": 6 },
-    { "name": "Umm Said", "radius_km": 10 },
-    { "name": "Al Udeid", "radius_km": 10 },
-    { "name": "Umm al Markh", "radius_km": 8 },
-    { "name": "Al Muntazah", "radius_km": 6 },
-    { "name": "Mesaieed", "radius_km": 10 },
-    { "name": "Al Bid", "radius_km": 6 },
-    { "name": "Al Jumayliyah", "radius_km": 12 }
-  ],
-  "Bahrain": [
-    { "name": "Manama", "radius_km": 8 },
-    { "name": "Rifa", "radius_km": 8 },
-    { "name": "Jadd Hafs", "radius_km": 6 },
-    { "name": "Muharraq", "radius_km": 8 },
-    { "name": "Madinat Hamad", "radius_km": 8 },
-    { "name": "Isa", "radius_km": 6 },
-    { "name": "Al Juffair", "radius_km": 5 },
-    { "name": "Al Malikiyah", "radius_km": 6 },
-    { "name": "Dar Kulayb", "radius_km": 6 },
-    { "name": "Tubli", "radius_km": 6 },
-    { "name": "Al Hadd", "radius_km": 6 },
-    { "name": "Southern Governorate", "radius_km": 12 },
-    { "name": "Sitrah", "radius_km": 6 }
-  ],
-  "Mauritania": [
-    { "name": "Nouakchott", "radius_km": 20 },
-    { "name": "Nouakchott Nord", "radius_km": 20 },
-    { "name": "Akjoujt", "radius_km": 15 },
-    { "name": "Hodh ech Chargui", "radius_km": 60 },
-    { "name": "Brakna", "radius_km": 40 },
-    { "name": "Trarza", "radius_km": 40 },
-    { "name": "Inchiri", "radius_km": 40 },
-    { "name": "Dakhlet el Brahim", "radius_km": 10 },
-    { "name": "Ar", "radius_km": 10 },
-    { "name": "Dhala", "radius_km": 10 },
-    { "name": "Dakhlet Nouâdhibou", "radius_km": 20 },
-    { "name": "Madina", "radius_km": 10 },
-    { "name": "Mahmoud", "radius_km": 10 }
-  ]
+  "Sudan": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Khartoum", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Tour", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Red Sea", "radius_km": 80, "min_bubble_radius": 320, "max_bubble_radius": 6000 },
+      { "name": "Al Qadarif State", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Darfur", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Oman": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Muscat", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Salalah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Sohar", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Seeb", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Khawḑ", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Buraimi", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Khuwayr", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Batinah", "radius_km": 40, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "Ad Dakhiliyah", "radius_km": 45, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Nizwa", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Khasab", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Saudi Arabia": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Riyadh", "radius_km": 35, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "Jeddah", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Ad Dammam", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Makkah", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Jubail", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Madinah", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Khobar", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Eastern Province", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Tabuk", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Al Qasim", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Asir Region", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Al Khubar", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Dhahran", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Qatif", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Yanbu", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Ahsa", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Ta'if", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Kharj", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Ha'il", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Tayma'", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Bahrah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Aflaj", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Al Muwayh", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 }
+    ]
+  },
+  "Jordan": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Amman", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Irbid", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Aqaba", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Zarqa", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Iraq": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Baghdad", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Basrah", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Erbil", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Anas", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Nineveh", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 }
+    ]
+  },
+  "Djibouti": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Dale", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Foret de Day", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Ali Sabieh Region", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Data", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Tadjourah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 }
+    ]
+  },
+  "Palestine": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Ramallah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Khalil", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Nablus", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Jerusalem", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Jenin", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Gaza Strip", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Bethlehem", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Palestine", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Al Muhafizah", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Tulkarm", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "West Bank", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Jericho", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Algeria": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Algier", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Brida", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Oran", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Et Toual", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Constantine", "radius_km": 18, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Abdelmoumen", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Hassi Messaoud", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Cheraga", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Kuwait": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Kuwait City", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Farwaniyah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Hawalli", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Ahmadi", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "As Salimiyah", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Asimah Governorate", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Ash Shuwaykh", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Jahra", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Bayan", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Rumaythayah", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Fahahil", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "As Salamiyah", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 }
+    ]
+  },
+  "Tunisia": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Tunis", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Ben Arous", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Ariana", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Sousse", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Sfax", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Ariana Ville", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Nabeul", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "La Marsa", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Monastir", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Cite El Khadra", "radius_km": 5, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Sukrah", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Zaghouan", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Beja", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "El Menzah", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Sidi Bouzid", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Lebanon": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Beirut", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Mount Lebanon", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Bekaa", "radius_km": 35, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "South Lebanon", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Saida", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "North Lebanon", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Zahle", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Jounieh", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Baalbek-Hermel", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Dbaye", "radius_km": 5, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Akkar", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Baabda", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 }
+    ]
+  },
+  "United Arab Emirates": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Dubai", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Abu Dhabi", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Sharjah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Ras Al Khaimah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Ajman", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Ain", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Al Fujairah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Shayratawn", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Dibba Al-Fujairah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Umm Al Quwain", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Jebel Ali", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Tarif", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Business Bay", "radius_km": 5, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Dayrah", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 }
+    ]
+  },
+  "Somalia": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Mogadishu", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Hargeisa", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Sheikh", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Somaliland", "radius_km": 80, "min_bubble_radius": 320, "max_bubble_radius": 6000 },
+      { "name": "Baidoa", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Garowe", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Hon", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Puntland", "radius_km": 80, "min_bubble_radius": 320, "max_bubble_radius": 6000 },
+      { "name": "Bay", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Kismayo", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Galmudug", "radius_km": 80, "min_bubble_radius": 320, "max_bubble_radius": 6000 },
+      { "name": "Jawhar", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Bosaso", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Mudug", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 }
+    ]
+  },
+  "Syria": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "As Susah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Damascus", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Aleppo", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Daraa", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Homs", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Latakia", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Idlib", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Hasakah", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Hamah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 }
+    ]
+  },
+  "Yemen": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Sanaa", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Adan", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Al Kharimah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Muwayh", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Darb al Fukrayd", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Taiz", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Hudaydah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Haram", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Samarah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Ma'rib", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 }
+    ]
+  },
+  "Libya": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Tripoli", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Misratah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Benghazi", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Mohamed Salah Ihi Tiouke", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Sidi Kasar", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Ra's al Alas", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Marj", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Zawiya", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Zliten", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Aziziyah", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Mudayyinah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Khaymah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Ain Zara", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Morocco": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Casablanca-Settat", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Casablanca", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Rabat Sale Kenitra", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Al Hoceima", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Marrakesh-Safi", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Tizi Ou Zemmour", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Marrakesh", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Rabat", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Tangier", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Souss-Massa", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Fez-Meknes", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Kenitra", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Hay Moulay Rachid", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Mechouar", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Agadir", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 }
+    ]
+  },
+  "Egypt": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Cairo", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Giza", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Alexandria", "radius_km": 25, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Al Qahirah al Jadidah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Maadi", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Ash Sharqiyah", "radius_km": 50, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "October", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Heliopolis", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Madinat an Nasr", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Ashir min Ramadan", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Qalyubiyah", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Al Gharbiyah", "radius_km": 30, "min_bubble_radius": 200, "max_bubble_radius": 4800 },
+      { "name": "Al Mansurah", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Shobra", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Qatar": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Doha", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Al Rayyan", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Khawr", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Wakrah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Dukhan", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Ghuwayriyah", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Umm Salal", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Doha International Airport", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Umm Said", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Udeid", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Umm al Markh", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Muntazah", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Mesaieed", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Al Bid", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Jumayliyah", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  },
+  "Bahrain": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Manama", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Rifa", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Jadd Hafs", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Muharraq", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Madinat Hamad", "radius_km": 8, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Isa", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Juffair", "radius_km": 5, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Malikiyah", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Dar Kulayb", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Tubli", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Al Hadd", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 },
+      { "name": "Southern Governorate", "radius_km": 12, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Sitrah", "radius_km": 6, "min_bubble_radius": 80, "max_bubble_radius": 2800 }
+    ]
+  },
+  "Mauritania": {
+    "default_min_bubble_radius": 300,
+    "default_max_bubble_radius": 6000,
+    "cities": [
+      { "name": "Nouakchott", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Nouakchott Nord", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Akjoujt", "radius_km": 15, "min_bubble_radius": 120, "max_bubble_radius": 3800 },
+      { "name": "Hodh ech Chargui", "radius_km": 60, "min_bubble_radius": 280, "max_bubble_radius": 5600 },
+      { "name": "Brakna", "radius_km": 40, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "Trarza", "radius_km": 40, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "Inchiri", "radius_km": 40, "min_bubble_radius": 240, "max_bubble_radius": 5200 },
+      { "name": "Dakhlet el Brahim", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Ar", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Dhala", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Dakhlet Nouâdhibou", "radius_km": 20, "min_bubble_radius": 150, "max_bubble_radius": 4200 },
+      { "name": "Madina", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 },
+      { "name": "Mahmoud", "radius_km": 10, "min_bubble_radius": 100, "max_bubble_radius": 3500 }
+    ]
+  }
 }
